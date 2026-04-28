@@ -10,7 +10,6 @@ description = "Installs Iris - Sodium is in by default for (usually) better perf
 id = "noshaders"
 name = "No Shaders"
 description = "Iris will not be installed."
-
 [flavor_groups.particles]
 name = "Extra Particles"
 description = "Subtle Effects adds some particles and sound effects, but may slightly affect performance and may be considered visually busy by some."
@@ -23,7 +22,6 @@ description = "Adds Subtle Effects - if you want to only have one kind of firefl
 id = "bland"
 name = "No Shinies"
 description = "Subtle Effects will not be installed, but there's plenty to look at without it!"
-
 [flavor_groups.distance]
 name = "Horizons"
 description = "Install Distant Horizons for further render distance? Volatile for performance, can be better or worse. Tested, but not guaranteed."
