@@ -1540,7 +1540,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-climbing.pw.toml"
-hash = "f04dd0ea81c98d80d8755643b9ae7ccf06ae00de39dcc4e053cb6d2606bb6596"
+hash = "a8eb83f5f009bd865dbb42b4988d8be78595190fc295d47ebf5402cece95ceca"
 metafile = true
 
 [[files]]
