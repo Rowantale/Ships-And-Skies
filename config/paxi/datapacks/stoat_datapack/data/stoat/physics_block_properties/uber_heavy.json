@@ -1,0 +1,7 @@
+{
+    "selector": "#stoat:uber_heavy",
+    "priority": 1500,
+    "properties": {
+        "sable:mass": 64
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "selector": "#stoat:chorus_half",
+    "priority": 1500,
+    "properties": {
+        "sable:floating_material": "stoat:chorus",
+        "sable:floating_scale": 0.5
+    },
+	"overrides": {
+		"type=double": {
+			"sable:floating_scale": 1.0
+		}
+    }
+}

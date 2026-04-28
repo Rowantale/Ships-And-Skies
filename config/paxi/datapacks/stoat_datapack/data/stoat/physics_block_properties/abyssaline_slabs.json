@@ -1,0 +1,18 @@
+{
+    "selector": "#stoat:abyssaline_slabs",
+    "priority": 1600,
+    "properties": {
+        "sable:mass": 2.0
+    },
+    "overrides": {
+        "type=double,charged=false": {
+			"sable:mass": 4.0
+		},
+        "type=double,charged=true": {
+			"sable:mass": 0.25
+		},
+        "charged=true": {
+			"sable:mass": 0.125
+		}
+    }
+}

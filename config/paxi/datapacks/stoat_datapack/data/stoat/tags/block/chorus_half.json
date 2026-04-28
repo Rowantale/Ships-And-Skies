@@ -1,0 +1,26 @@
+{
+  "values": [
+    {"id":"minecraft:purpur_slab","required":false},
+    {"id":"minecraft:purpur_stairs","required":false},
+    {"id":"enderscape:dusk_purpur_slab","required":false},
+    {"id":"enderscape:purpur_tile_slab","required":false},
+    {"id":"enderscape:dusk_purpur_stairs","required":false},
+    {"id":"enderscape:purpur_tile_stairs","required":false},
+    {"id":"quark:purpur_vertical_slab","required":false},
+    {"id":"quark:duskbound_block_slab","required":false},
+    {"id":"quark:duskbound_block_stairs","required":false},
+    {"id":"quark:duskbound_block_vertical_slab","required":false},
+    {"id":"architects_palette:oracle_slab","required":false},
+    {"id":"architects_palette:oracle_brick_slab","required":false},
+    {"id":"architects_palette:dark_oracle_brick_slab","required":false},
+    {"id":"architects_palette:oracle_tile_slab","required":false},
+    {"id":"architects_palette:oracle_vertical_slab","required":false},
+    {"id":"architects_palette:oracle_brick_vertical_slab","required":false},
+    {"id":"architects_palette:dark_oracle_brick_vertical_slab","required":false},
+    {"id":"architects_palette:oracle_tile_vertical_slab","required":false},
+    {"id":"architects_palette:oracle_stairs","required":false},
+    {"id":"architects_palette:oracle_brick_stairs","required":false},
+    {"id":"architects_palette:dark_oracle_brick_stairs","required":false},
+    {"id":"architects_palette:oracle_tile_stairs","required":false}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:rail"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecarttweaks:crossed_rail"
+  }
+}

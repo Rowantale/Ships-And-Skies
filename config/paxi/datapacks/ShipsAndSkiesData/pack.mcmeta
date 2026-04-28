@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": "Core datapack for Rowan's Ships and Skies pack!"
+    },
+	"filter": {
+        "block": [
+			{
+				"namespace": "aeronautics",
+				"path": "recipe/andesite_propeller_from_andesite"
+			}
+		]
+	}
+}

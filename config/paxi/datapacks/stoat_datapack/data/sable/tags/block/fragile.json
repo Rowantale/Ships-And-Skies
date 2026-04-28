@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"minecraft:chorus_plant","required":false},
+    {"id":"minecraft:chorus_flower","required":false},
+    {"id":"minecraft:resin_block","required":false},
+    {"id":"quark:dirty_glass","required":false},
+    {"id":"quark:dirty_glass_pane","required":false},
+    {"id":"abundant_atmosphere:red_bamboo","required":false},
+    {"id":"verdant:saguaro_block","required":false},
+    {"id":"verdant:saguaro_arm","required":false},
+    {"id":"mynethersdelight:powdery_cannon","required":false},
+    {"id":"enderscape:void_shale","required":false},
+    {"id":"enderscape:ripe_flanger_berry_block","required":false},
+    {"id":"enderscape:ripe_puru_berry_block","required":false},
+    {"id":"amendments:water_lily_pad","required":false}
+  ]
+}

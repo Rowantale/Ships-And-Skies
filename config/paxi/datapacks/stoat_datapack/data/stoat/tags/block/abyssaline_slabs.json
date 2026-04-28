@@ -1,0 +1,8 @@
+{
+  "values": [
+    {"id":"architects_palette:abyssaline_brick_slab","required":false},
+    {"id":"architects_palette:abyssaline_tile_slab","required":false},
+    {"id":"architects_palette:abyssaline_brick_vertical_slab","required":false},
+    {"id":"architects_palette:abyssaline_tile_vertical_slab","required":false}
+  ]
+}

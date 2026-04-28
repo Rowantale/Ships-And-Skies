@@ -1,0 +1,25 @@
+filename = 'foggypalegarden-2.9.1+1.21.1-neoforge.jar'
+name = 'Foggy Pale Garden (FPG)'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.9.1+1.21.1-neoforge'
+
+[download]
+hash = 'ee0afb51c2ac9c99193dd9ab547a4871c5cd57b149bf3f603d48bd2d7becb9d4b6f588df73736d5443c7ad4e3a5983354b037bd439476daf0c136f18243505ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HnYv9te8/versions/kicZlBCe/foggypalegarden-2.9.1%2B1.21.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'HnYv9te8'
+version = 'kicZlBCe'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'sbpqhzIG'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'

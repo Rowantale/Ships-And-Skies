@@ -1,0 +1,29 @@
+{
+  "values": [
+    {"id":"minecraft:chorus_plant","required":false},
+    {"id":"minecraft:chorus_flower","required":false},
+    {"id":"minecraft:purpur_block","required":false},
+    {"id":"minecraft:purpur_pillar","required":false},
+    {"id":"minecraft:purpur_wall","required":false},
+    {"id":"enderscape:chiseled_purpur","required":false},
+    {"id":"enderscape:dusk_purpur_block","required":false},
+    {"id":"enderscape:dusk_purpur_pillar","required":false},
+    {"id":"enderscape:dusk_purpur_wall","required":false},
+    {"id":"enderscape:chiseled_dusk_purpur","required":false},
+    {"id":"enderscape:purpur_tiles","required":false},
+    {"id":"enderscape:blinklamp","required":false},
+    {"id":"quark:purpur_chest","required":false},
+    {"id":"quark:chorus_fruit_block","required":false},
+    {"id":"quark:duskbound_block","required":false},
+    {"id":"quark:duskbound_lantern","required":false},
+    {"id":"architects_palette:oracle_block","required":false},
+    {"id":"architects_palette:oracle_pillar","required":false},
+    {"id":"architects_palette:oracle_bricks","required":false},
+    {"id":"architects_palette:oracle_brick_wall","required":false},
+    {"id":"architects_palette:dark_oracle_bricks","required":false},
+    {"id":"architects_palette:dark_oracle_brick_wall","required":false},
+    {"id":"architects_palette:oracle_tiles","required":false},
+    {"id":"architects_palette:oracle_tile_wall","required":false},
+    {"id":"architects_palette:framed_oracle_block","required":false}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "n": {
+      "item": "architects_palette:nether_brass_nugget"
+    },
+	"c": {
+      "item": "architects_palette:nether_brass_chain"
+    },
+    "t": {
+      "item": "architects_palette:nether_brass_torch"
+    }
+  },
+  "pattern": [
+    "ncn",
+    "ntn",
+    "nnn"
+  ],
+  "result": {
+    "count": 3,
+    "id": "architects_palette:nether_brass_lantern"
+  }
+}

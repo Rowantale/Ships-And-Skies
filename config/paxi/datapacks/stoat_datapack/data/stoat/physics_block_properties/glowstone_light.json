@@ -1,0 +1,15 @@
+{
+    "selector": "#stoat:glowstone_light",
+    "priority": 1500,
+    "properties": {
+        "sable:mass": 1.0,
+        "sable:floating_material": "stoat:glowstone",
+        "sable:floating_scale": 0.5
+    },
+	"overrides": {
+		"type=double": {
+			"sable:mass": 2.0,
+			"sable:floating_scale": 1.0
+		}
+    }
+}

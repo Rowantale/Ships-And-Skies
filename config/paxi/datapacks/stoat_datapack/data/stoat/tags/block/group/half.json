@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"minecraft:copper_grate","required":false},
+    {"id":"minecraft:exposed_copper_grate","required":false},
+    {"id":"minecraft:weathered_copper_grate","required":false},
+    {"id":"minecraft:oxidized_copper_grate","required":false},
+    {"id":"minecraft:waxed_copper_grate","required":false},
+    {"id":"minecraft:waxed_exposed_copper_grate","required":false},
+    {"id":"minecraft:waxed_weathered_copper_grate","required":false},
+    {"id":"minecraft:waxed_oxidized_copper_grate","required":false},
+    {"id":"minecraft:sculk_shrieker","required":false},
+    {"id":"minecraft:sculk_sensor","required":false},
+    {"id":"minecraft:calibrated_sculk_sensor","required":false},
+    {"id":"#quark:vertical_slabs","required":false},
+    {"id":"quark:mud_brick_lattice","required":false},
+    {"id":"architects_palette:pipe","required":false},
+    {"id":"#architects_palette:nubs","required":false},
+    {"id":"farmersdelight:cooking_pot","required":false},
+    {"id":"farmersdelight:skillet","required":false},
+    {"id":"oxide:rebar","required":false},
+    {"id":"oxide:cracked_cement_slab","required":false},
+    {"id":"oxide:cracked_weathered_cement_slab","required":false},
+    {"id":"oxide:weathered_cement_block_slab","required":false},
+    {"id":"oxide:iron_scaffold","required":false},
+    {"id":"oxide:weathered_iron_scaffold","required":false},
+    {"id":"oxide:rusted_iron_scaffold","required":false},
+    {"id":"#oxide:wet_cement","required":false},
+    {"id":"#oxide:reinforced_cement","required":false}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "values": [
+    {"id":"architects_palette:moonshale","required":false},
+    {"id":"architects_palette:moonshale_wall","required":false},
+    {"id":"architects_palette:chiseled_moonshale","required":false},
+    {"id":"architects_palette:moonshale_bricks","required":false},
+    {"id":"architects_palette:moonshale_brick_wall","required":false},
+    {"id":"architects_palette:cracked_moonshale_bricks","required":false},
+    {"id":"architects_palette:moonshale_flagstone","required":false}
+  ]
+}

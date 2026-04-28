@@ -1,0 +1,24 @@
+{
+    "selector": "#stoat:nebulite_vertical",
+    "priority": 1500,
+    "properties": {
+        "sable:inertia": [2.66, 0.15, 2.66]
+    },
+    "overrides": {
+      "type=double": {
+        "sable:inertia": [0.15, 0.15, 0.15]
+      },
+      "type=north": {
+        "sable:inertia": [0.15, 0.15, 2.66]
+      },
+      "type=east": {
+        "sable:inertia": [2.66, 0.15, 0.15]
+      },
+      "type=south": {
+        "sable:inertia": [0.15, 0.15, 2.66]
+      },
+      "type=west": {
+        "sable:inertia": [2.66, 0.15, 0.15]
+      }
+	}
+}

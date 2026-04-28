@@ -1,0 +1,7 @@
+{
+  "values": [
+    {"id":"architects_palette:craterstone","required":false},
+    {"id":"architects_palette:craterstone_wall","required":false},
+    {"id":"architects_palette:bordered_moonshale","required":false}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "selector": "#stoat:rubbery",
+    "priority": 1500,
+    "properties": {
+        "sable:restitution": 0.25,
+        "sable:friction": 1.17
+    }
+}

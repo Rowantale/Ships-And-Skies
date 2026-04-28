@@ -1,0 +1,9 @@
+{
+    "selector": "#stoat:moonshale",
+    "priority": 1500,
+    "properties": {
+        "sable:floating_material": "stoat:moonshale",
+        "sable:floating_scale": 1.0,
+        "sable:inertia": [0.01, 0.01, 0.01]
+    }
+}

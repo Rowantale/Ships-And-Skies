@@ -1,0 +1,7 @@
+{
+  "values": [
+    {"id":"architects_palette:nebulite_vertical_slab","required":false},
+    {"id":"architects_palette:nebulite_wall","required":false},
+    {"id":"architects_palette:polished_nebulite_vertical_slab","required":false}
+  ]
+}

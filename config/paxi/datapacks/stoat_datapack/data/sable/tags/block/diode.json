@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"quark:redstone_randomizer","required":false},
+    {"id":"recharged:denier","required":false},
+    {"id":"recharged:resistor","required":false},
+    {"id":"recharged:latch","required":false},
+    {"id":"pulsetech:pattern_detector","required":false},
+    {"id":"pulsetech:pattern_emitter","required":false},
+    {"id":"pulsetech:number_monitor","required":false},
+    {"id":"pulsetech:number_emitter","required":false},
+    {"id":"pulsetech:analog_number_emitter","required":false},
+    {"id":"pulsetech:controller","required":false},
+    {"id":"pulsetech:scanner","required":false},
+    {"id":"pulsetech:cannon","required":false},
+    {"id":"pulsetech:orb","required":false},
+    {"id":"pulsetech:program_emitter","required":false}
+  ]
+}

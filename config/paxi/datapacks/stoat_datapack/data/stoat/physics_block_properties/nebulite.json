@@ -1,0 +1,7 @@
+{
+    "selector": "#stoat:nebulite",
+    "priority": 1500,
+    "properties": {
+        "sable:inertia": [0.15, 0.15, 0.15]
+    }
+}

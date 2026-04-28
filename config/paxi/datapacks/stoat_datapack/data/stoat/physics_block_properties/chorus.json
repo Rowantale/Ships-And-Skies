@@ -1,0 +1,8 @@
+{
+    "selector": "#stoat:chorus",
+    "priority": 1500,
+    "properties": {
+        "sable:floating_material": "stoat:chorus",
+        "sable:floating_scale": 1.0
+    }
+}

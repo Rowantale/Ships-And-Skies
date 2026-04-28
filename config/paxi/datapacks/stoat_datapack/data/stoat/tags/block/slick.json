@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"architects_palette:salmon_log","required":false},
+    {"id":"architects_palette:salmon_scales","required":false},
+    {"id":"architects_palette:cod_log","required":false},
+    {"id":"architects_palette:cod_scales","required":false},
+    {"id":"architects_palette:entrails","required":false},
+    {"id":"architects_palette:entrails_slab","required":false},
+    {"id":"architects_palette:entrails_stairs","required":false},
+    {"id":"architects_palette:entrails_vertical_slab","required":false}
+  ]
+}

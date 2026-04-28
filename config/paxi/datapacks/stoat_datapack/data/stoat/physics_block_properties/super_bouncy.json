@@ -1,0 +1,7 @@
+{
+    "selector": "#stoat:super_bouncy",
+    "priority": 1500,
+    "properties": {
+        "sable:restitution": 0.95
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "values": [
+    {"id":"architects_palette:hadaline_brick_slab","required":false},
+    {"id":"architects_palette:hadaline_tile_slab","required":false},
+    {"id":"architects_palette:hadaline_brick_vertical_slab","required":false},
+    {"id":"architects_palette:hadaline_tile_vertical_slab","required":false}
+  ]
+}

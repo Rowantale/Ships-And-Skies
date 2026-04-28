@@ -1,0 +1,43 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"minecraft:ancient_debris","required":false},
+    {"id":"architects_palette:unobtanium_block","required":false},
+    {"id":"architects_palette:netherite_nub","required":false},
+    {"id":"quark:dusky_myalite","required":false},
+    {"id":"supplementaries:safe","required":false},
+    {"id":"monobank:monobank","required":false}
+  ],
+  "remove": [
+    {"id":"minecraft:dried_kelp_block","required":false},
+    {"id":"minecraft:hay_block","required":false},
+    {"id":"enderscape:shadoline_block","required":false},
+    {"id":"quark:sugarcane_block","required":false},
+    {"id":"quark:cactus_block","required":false},
+    {"id":"quark:chorus_fruit_block","required":false},
+    {"id":"quark:stick_block","required":false},
+    {"id":"quark:apple_crate","required":false},
+    {"id":"quark:carrot_crate","required":false},
+    {"id":"quark:potato_crate","required":false},
+    {"id":"quark:beetroot_crate","required":false},
+    {"id":"quark:cocoa_beans_sack","required":false},
+    {"id":"quark:nether_wart_sack","required":false},
+    {"id":"quark:gunpowder_sack","required":false},
+    {"id":"quark:berry_sack","required":false},
+    {"id":"quark:glowberry_sack","required":false},
+    {"id":"quark:bonded_leather","required":false},
+    {"id":"quark:bonded_rabbit_hide","required":false},
+    {"id":"supplementaries:flax_block","required":false},
+    {"id":"supplementaries:feather_block","required":false},
+    {"id":"supplementaries:sugar_cube","required":false},
+    {"id":"farmersdelight:carrot_crate","required":false},
+    {"id":"farmersdelight:potato_crate","required":false},
+    {"id":"farmersdelight:beetroot_crate","required":false},
+    {"id":"farmersdelight:cabbage_crate","required":false},
+    {"id":"farmersdelight:tomato_crate","required":false},
+    {"id":"farmersdelight:onion_crate","required":false},
+    {"id":"farmersdelight:rice_bale","required":false},
+    {"id":"farmersdelight:rice_bag","required":false},
+    {"id":"farmersdelight:straw_bale","required":false}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "values": [
+    {"id":"architects_palette:polished_glowstone_slab","required":false},
+    {"id":"architects_palette:polished_glowstone_vertical_slab","required":false},
+    {"id":"architects_palette:polished_glowstone_nub","required":false}
+  ]
+}

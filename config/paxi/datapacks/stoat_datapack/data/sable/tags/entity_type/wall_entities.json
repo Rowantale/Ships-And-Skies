@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "quark:dyed_item_frame", "required": false },
+    { "id": "quark:glass_frame", "required": false }
+  ]
+}
