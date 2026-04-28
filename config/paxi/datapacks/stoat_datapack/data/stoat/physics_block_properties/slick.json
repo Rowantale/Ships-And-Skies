@@ -1,7 +1,0 @@
-{
-    "selector": "#stoat:slick",
-    "priority": 1500,
-    "properties": {
-        "sable:friction": 0.5
-    }
-}
