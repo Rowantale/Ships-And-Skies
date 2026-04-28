@@ -39,6 +39,8 @@ description = "Adds Distant Horizons - preconfigured to work with Better Clouds!
 
 [metafile.iris]
 flavors = ["yesshaders"]
+[metafile.iris-flw-compat]
+flavors = ["yesshaders"]
 [metafile.subtle-effects]
 flavors = ["shinies"]
 [metafile.distanthorizons]
