@@ -1752,7 +1752,7 @@ metafile = true
 
 [[files]]
 file = "mods/hybrid-aquatic.pw.toml"
-hash = "083b68dd544260fe284aaeb299e3f6da15081ce49c78794ab6b5ede7656a485c"
+hash = "2d78bf24764f18fd0ee8759b48aba5eadc007c5aa5d05adde54f83042e4b6b1b"
 metafile = true
 
 [[files]]
@@ -2151,4 +2151,4 @@ hash = "874a0fa0ccaa0d3a4b39dc3e165cbb2f9c1dff7f6b7465ed4c724e2da0ee2500"
 
 [[files]]
 file = "unsup.toml"
-hash = "32b5e7a273244063091018a0b9689a2fc27e3841c30ba47098b9bcbbc09e1d94"
+hash = "aee010c85c029c89efee400c1f84a5bfcff4ccc8330c04ebe8dd495158100aae"
