@@ -57,10 +57,6 @@ file = "config/architects_palette-common.toml"
 hash = "bc9477568da85e83ba30418ba3b558d3cc32024d6fcb36e8bfb34d96cd63205a"
 
 [[files]]
-file = "config/async.toml"
-hash = "1888352fbb41a324060c2e5f711e33d626d39b3ebd4e29e0472912b6d2eb5696"
-
-[[files]]
 file = "config/asynclocator.toml"
 hash = "6c19539e05905c97a444a612dd2b597001244355cc9a59c25b3079cd4665731a"
 
@@ -1531,11 +1527,6 @@ metafile = true
 [[files]]
 file = "mods/async-locator-refined.pw.toml"
 hash = "dfa39dbfce8cccfe38d140db4782fa5c806eccfcf3f7c3a5d352f089d1b1cd73"
-metafile = true
-
-[[files]]
-file = "mods/async.pw.toml"
-hash = "a3f3a3d25aab1b5473dced9875fc53d4eb64c473cdab787fbb8dbe40aacf2d1f"
 metafile = true
 
 [[files]]
