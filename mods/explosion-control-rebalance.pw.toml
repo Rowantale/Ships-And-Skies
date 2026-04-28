@@ -1,0 +1,13 @@
+name = "Explosion Control & Rebalance"
+filename = "explosionrebalance-neoforge-1.21.1-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/JMloQIYA/versions/22cBjN8D/explosionrebalance-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "db2479058c89ba296659cc2228a532895484e444fdf5b4fe95acb1940b1e3663805122a7b5801ee43b74a10a9885b342e629cdfc5d3a7758cf133c8fc14f736d"
+
+[update]
+[update.modrinth]
+mod-id = "JMloQIYA"
+version = "22cBjN8D"

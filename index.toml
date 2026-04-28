@@ -197,6 +197,10 @@ file = "config/etched-server.toml"
 hash = "cb9277a6bcad8f39fdec443f28181ea6e9b38e70781a73a236eb9b9f69e23be6"
 
 [[files]]
+file = "config/explosionrebalance-common.toml"
+hash = "5883b17142a69a7a86f0d83ef6f097bfb3f7e8360906eaa3110d090b4008410a"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "b831f035581e8bb1e02edf414bb01dfe9f96146abc30a5614712c7257eff5cd1"
 
@@ -510,7 +514,7 @@ hash = "5dcc94be08dae8a1a5e2833ed928eed22129806452d357fc222b2d6f6c43e349"
 
 [[files]]
 file = "config/naturaltemperature-common.toml"
-hash = "04893729d2a14e1c594f932003753f6a9123a7c8b446a05fe9c1f09dfe78617c"
+hash = "cd756eed20673be599856b155626c26802508522ecf2677a4a35ac5550bd95cb"
 
 [[files]]
 file = "config/neo_language_reload.json"
@@ -1414,11 +1418,15 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "db49c4dde15db318eb25e8a43fa06992778f0e17b3a963fff5cbee35da11fb81"
+hash = "67f8359fe837711c2114abbfd940a28f75af76adf9372a9e785deceb307bad48"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+hash = "2f1f762bcc5575488d1346c0b676eb4e5fe2a7185f6ec8c5b7d00461647b21aa"
 
 [[files]]
 file = "config/xaero/minimap/server_profiles/default.cfg"
@@ -1461,6 +1469,11 @@ file = "icon.png"
 hash = "2ed39c8949b09cf2499f4c491542e2d86057bf2ffa77a8da944855e5fc0cdaf9"
 
 [[files]]
+file = "mods/1-to-1-nether.pw.toml"
+hash = "13a828b9c0a2842f557bdde2adcd6d363f27f18cb167acb2a7c8981579e0e5ad"
+metafile = true
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "5450e5c8b78d41a2b33f89cf97aa1c6991ee3fbb26ca220f69531d0c6641c5d7"
 metafile = true
@@ -1488,6 +1501,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "e05a01237b4a187ee74916de4ce03c28b9baea9e66e56d20c84edc16c251a21f"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "39a9a25ed3de5c351f524f84f0a601a9ac4575218f183b9734fa4fc4250eabca"
 metafile = true
 
 [[files]]
@@ -1521,6 +1539,11 @@ hash = "a3f3a3d25aab1b5473dced9875fc53d4eb64c473cdab787fbb8dbe40aacf2d1f"
 metafile = true
 
 [[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "a8eb83f5f009bd865dbb42b4988d8be78595190fc295d47ebf5402cece95ceca"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "3d285af95621c022edc54cc9705fc82ea31e08eca8f4a089af512fe5c0b2030a"
 metafile = true
@@ -1528,6 +1551,11 @@ metafile = true
 [[files]]
 file = "mods/better-underground-caves.pw.toml"
 hash = "170ca604ac4d21bf6a73eb9a124fbd4fc8a3bf0ce122891f999633d14ef08d41"
+metafile = true
+
+[[files]]
+file = "mods/big-cats-and-rabbits.pw.toml"
+hash = "4cbb97f78943851d24f78194cabccb72a331311ea60d2a858b6e75ed325f56f8"
 metafile = true
 
 [[files]]
@@ -1612,7 +1640,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "4087a57e8837e02482adc1ca586398cffbaf79c945f187f555c6177bfe679152"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
@@ -1696,8 +1724,28 @@ hash = "4dab7bd594e1fc1e31872e3a64b3856e3ea7495fbc54829e315d823d22854ff0"
 metafile = true
 
 [[files]]
+file = "mods/envelope.pw.toml"
+hash = "0cb5a7898046f76fbd69e195402a034fb5e7a5aa9a318d05ccdd2b6a3ec24501"
+metafile = true
+
+[[files]]
 file = "mods/etched.pw.toml"
 hash = "3398af4cfcc8e20ad345a1fc832c18f6db50caa547e448bf0a33b8b7eb878c46"
+metafile = true
+
+[[files]]
+file = "mods/explosion-control-rebalance.pw.toml"
+hash = "c4a9da07051e257d677d67eefa008d93a812b48cc274f9713f01f4a5c620e274"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "f0b946726b969d4d57d5bc26da453da8054b77f454b7bd19a3d6f32ba849a127"
 metafile = true
 
 [[files]]
@@ -1926,6 +1974,11 @@ hash = "290847ba8d9e4ef31a2adcd24d4cc68bc64516da288054292ea89b6e8b3a382f"
 metafile = true
 
 [[files]]
+file = "mods/our-villager-discounts.pw.toml"
+hash = "821f967bbff21f6e5257f1b8986f00b8a0e8f40ddbb69033234fc0973e2715fb"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "31730604cea5aa105ec8a9180357abaf9f5d3a9e102a054dbf2bf583eccf4a17"
 metafile = true
@@ -1981,6 +2034,11 @@ hash = "43a302411a4299552e08e45f1f93978a698557864d9fb376d8196584156c20b7"
 metafile = true
 
 [[files]]
+file = "mods/rabbit-pathfinding-fixed-(unofficial-forge-port).pw.toml"
+hash = "4a2cc4d73eb17d0b13b3fc64c0e7ff522ede653a8539c0b80585a4ef025196ca"
+metafile = true
+
+[[files]]
 file = "mods/rail-recipe-rebalance.pw.toml"
 hash = "9f6413f0c3a808448b2857fa0532b27dbf9b745d26d8f97b75bd85cf6a14c424"
 metafile = true
@@ -2016,18 +2074,28 @@ hash = "cc643c404f5ae0617374e13e653156f1740393c632b299047b3073754cbfa892"
 metafile = true
 
 [[files]]
+file = "mods/respawning-animals.pw.toml"
+hash = "68294507359c310e2d25b4bccf160c173264c2301439be978242994c9fcb6cdc"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "de0ad583aa9db402d80b01f87ebe8be708c9a572efcb35db431b8524e11f947a"
 metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "437588a3abd915cf0ff5f3398225aa21b71c29351fe8c67e2c2c7271c0f56bbf"
+hash = "25b5dfb19a7b9fc82bd8ee5d78ea02c122edbe9ca45a06020345cce03e1d8048"
 metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "4fc21e7bac0dfd2d036a41139a80ec546c60881cb99252a86189ad914e2dadd6"
+metafile = true
+
+[[files]]
+file = "mods/shutter-up.pw.toml"
+hash = "daad0e0d38590edc5dd0b1c828c59d308fdb14b6b8d94aff426ac26decd0a332"
 metafile = true
 
 [[files]]
@@ -2073,6 +2141,11 @@ metafile = true
 [[files]]
 file = "mods/the-block-box.pw.toml"
 hash = "36fa647102807bcc3c06b5b9b3561fd2b6b5697410cbdfe956d10f2629470705"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "0ccb1c696758d7935d02dd5160987cab8d3594ab24f89deb01c28f9e596094e7"
 metafile = true
 
 [[files]]
@@ -2143,6 +2216,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "8681b0a7788308fc91ec773dabb22b6fa115cdc6499c772f223086b16fbbbf36"
+metafile = true
+
+[[files]]
+file = "mods/zombie-villager-control.pw.toml"
+hash = "e1a585c226e267ff5ed2f0e49e846c8347b69b2e8e20df4ca31fba676bba5944"
 metafile = true
 
 [[files]]
