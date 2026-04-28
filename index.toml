@@ -201,12 +201,8 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "b831f035581e8bb1e02edf414bb01dfe9f96146abc30a5614712c7257eff5cd1"
 
 [[files]]
-file = "config/fallingtrees/client.json"
-hash = "32250607fd16180bc354ee685dbd5739aecbc86a30872fc29cd36ac43ac2d4a5"
-
-[[files]]
-file = "config/fallingtrees/common.json"
-hash = "a5d3a731e94d345a0fbaf5e8cc1ef62259403d0c9f6d00860e5f7af1bb534558"
+file = "config/fallingtrees-common.toml"
+hash = "27a1a0a809c08015b087905b75cf92a3e59bd9c2a9720df5d811004761e48a9c"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -1740,6 +1736,11 @@ hash = "f0b946726b969d4d57d5bc26da453da8054b77f454b7bd19a3d6f32ba849a127"
 metafile = true
 
 [[files]]
+file = "mods/falling-trees-physics.pw.toml"
+hash = "7507e02babc0d2d2bc433da4b015d97e2eb9aad9054f8047a09305cc8769a45f"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "21928e791f5b50de6d426da23992691975762de76ef3d0b150657c4b228465b9"
 metafile = true
@@ -1822,6 +1823,11 @@ metafile = true
 [[files]]
 file = "mods/ipla.pw.toml"
 hash = "f8d17cd03f9525738821927ec54d9d1f7343009f05f8ba6f381609d346851aef"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "d2c3a731cfe5dc57f5bf47ba542335a2abcbd2d9095aa6471ccc98aa57005401"
 metafile = true
 
 [[files]]
@@ -1975,16 +1981,6 @@ hash = "31730604cea5aa105ec8a9180357abaf9f5d3a9e102a054dbf2bf583eccf4a17"
 metafile = true
 
 [[files]]
-file = "mods/pandalib.pw.toml"
-hash = "8665f40048de0c4ab627d6f09f6fae32b47e0b421c0e72853ccf67f83be76406"
-metafile = true
-
-[[files]]
-file = "mods/pandas-falling-trees.pw.toml"
-hash = "611bf563690bf50fd216646be3c41a3409496c6b7481a15d29e610567275b806"
-metafile = true
-
-[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "a8e88d8dad474f36b4a83573ea383d116745da95f878a17f206a6623c43c6313"
 metafile = true
@@ -2032,6 +2028,11 @@ metafile = true
 [[files]]
 file = "mods/rail-recipe-rebalance.pw.toml"
 hash = "9f6413f0c3a808448b2857fa0532b27dbf9b745d26d8f97b75bd85cf6a14c424"
+metafile = true
+
+[[files]]
+file = "mods/rapid-leaf-decay.pw.toml"
+hash = "f043ed3e14ce237a49f4a7b9f1029ff005d2a8b2a58d7f07460e6e213f8f957a"
 metafile = true
 
 [[files]]
