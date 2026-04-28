@@ -1505,7 +1505,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "39a9a25ed3de5c351f524f84f0a601a9ac4575218f183b9734fa4fc4250eabca"
+hash = "4219e10bf4bfedd73c40990e200bf419f9ec7ec394cc5d474f8804dbd13dafbe"
 metafile = true
 
 [[files]]
@@ -1540,7 +1540,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-climbing.pw.toml"
-hash = "a8eb83f5f009bd865dbb42b4988d8be78595190fc295d47ebf5402cece95ceca"
+hash = "f04dd0ea81c98d80d8755643b9ae7ccf06ae00de39dcc4e053cb6d2606bb6596"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "Ships and Skies"
 author = "Rowantale"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f68b0d47d14636ee9e84dafe39e894ead2bdd5bcccbba84c4e79d02b9bf2fa1c"
+hash = "fe0b54d3809a48acb574c4bd3790922cc02bbc15aeb5f3275437f36892835db5"
 
 [versions]
 minecraft = "1.21.1"
