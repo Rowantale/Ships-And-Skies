@@ -1982,7 +1982,7 @@ metafile = true
 
 [[files]]
 file = "mods/rail-recipe-rebalance.pw.toml"
-hash = "390b483451f2444e839f944c4c909683f6ceb16467c2e262de92b013cb72cf4c"
+hash = "9f6413f0c3a808448b2857fa0532b27dbf9b745d26d8f97b75bd85cf6a14c424"
 metafile = true
 
 [[files]]
