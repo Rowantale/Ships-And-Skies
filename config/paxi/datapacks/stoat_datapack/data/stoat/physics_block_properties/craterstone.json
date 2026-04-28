@@ -1,0 +1,9 @@
+{
+    "selector": "#stoat:craterstone",
+    "priority": 1500,
+    "properties": {
+        "sable:floating_material": "stoat:moonshale",
+        "sable:floating_scale": 0.5,
+        "sable:inertia": [0.02, 0.02, 0.02]
+    }
+}

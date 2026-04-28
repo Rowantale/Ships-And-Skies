@@ -1,0 +1,38 @@
+filename = 'better-underground-caves-0.1.jar'
+name = 'Better Underground Caves'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8'
+]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.1+mod'
+
+[download]
+hash = 'fe79b984c8f0e5fc9c9fb97fbb5abb6cb0255f903be5960d7f01ffd2cbf18a3c3978d161cf8465388662d1210fd6edc73293c1ef31f4682c175adb672f62078e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FlQTNMb3/versions/KT9efthC/better-underground-caves-0.1.jar'
+
+[update.modrinth]
+mod-id = 'FlQTNMb3'
+version = 'KT9efthC'

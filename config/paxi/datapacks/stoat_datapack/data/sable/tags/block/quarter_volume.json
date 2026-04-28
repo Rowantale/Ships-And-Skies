@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"#stoat:group/quarter","required":false}
+  ]
+}

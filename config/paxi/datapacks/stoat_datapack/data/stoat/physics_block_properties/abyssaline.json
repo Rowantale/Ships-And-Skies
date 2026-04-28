@@ -1,0 +1,12 @@
+{
+    "selector": "#stoat:abyssaline",
+    "priority": 1500,
+    "properties": {
+        "sable:mass": 4.0
+    },
+    "overrides": {
+        "charged=true": {
+			"sable:mass": 0.25
+		}
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "values": [
+    {"id":"#createdeco:coin_piles","required":false}
+  ],
+  "remove": [
+    {"id":"createdeco:netherite_coinstack","required":false}
+  ]
+}

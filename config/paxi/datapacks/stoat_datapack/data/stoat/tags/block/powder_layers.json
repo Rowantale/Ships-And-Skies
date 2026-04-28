@@ -1,0 +1,6 @@
+{
+  "values": [
+    {"id":"minecraft:snow","required":false},
+    {"id":"supplementaries:ash","required":false}
+  ]
+}

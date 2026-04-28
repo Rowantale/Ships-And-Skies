@@ -1,0 +1,12 @@
+{
+    "selector": "#stoat:hadaline",
+    "priority": 1500,
+    "properties": {
+        "sable:mass": 2.0
+    },
+    "overrides": {
+        "charged=true": {
+			"sable:mass": 8.0
+		}
+    }
+}

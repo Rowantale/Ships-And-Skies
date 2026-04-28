@@ -1,0 +1,8 @@
+{
+    "selector": "#stoat:end_lantern",
+    "priority": 1500,
+    "properties": {
+        "sable:floating_material": "stoat:end_lantern",
+        "sable:floating_scale": 1.0
+    }
+}

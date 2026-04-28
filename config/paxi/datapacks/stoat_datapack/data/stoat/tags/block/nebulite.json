@@ -1,0 +1,11 @@
+{
+  "values": [
+    {"id":"enderscape:nebulite_block","required":false},
+    {"id":"#c:ores/nebulite","required":false},
+    {"id":"architects_palette:nebulite","required":false},
+    {"id":"architects_palette:nebulite_stairs","required":false},
+    {"id":"architects_palette:polished_nebulite","required":false},
+    {"id":"architects_palette:polished_nebulite_stairs","required":false},
+    {"id":"quark:myalite_crystal","required":false}
+  ]
+}

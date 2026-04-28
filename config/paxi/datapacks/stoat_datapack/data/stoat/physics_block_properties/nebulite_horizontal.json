@@ -1,0 +1,12 @@
+{
+    "selector": "#stoat:nebulite_horizontal",
+    "priority": 1500,
+    "properties": {
+        "sable:inertia": [0.15, 2.66, 0.15]
+    },
+    "overrides": {
+      "type=double": {
+        "sable:inertia": [0.15, 0.15, 0.15]
+      }
+	}
+}

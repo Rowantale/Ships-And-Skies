@@ -1,0 +1,9 @@
+{
+  "scale_with_pressure": true,
+  "lift_strength": 0.35,
+  "transition_speed": 0.1,
+  "slow_vertical_friction": 0.02,
+  "fast_vertical_friction": 0.4,
+  "slow_horizontal_friction": 0.02,
+  "fast_horizontal_friction": 0.3
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "minecraft:wildflowers",
+            "naturalphilosophy:cattails",
+			"nomansland:reeds"			
+        ]
+    }
+]

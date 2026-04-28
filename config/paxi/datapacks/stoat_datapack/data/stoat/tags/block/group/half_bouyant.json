@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"#quark:wooden_vertical_slabs","required":false},
+    {"id":"#quark:stools","required":false},
+    {"id":"#quark:hollow_logs","required":false},
+    {"id":"#quark:hedges","required":false},
+    {"id":"#blockbox:wooden_seats","required":false},
+    {"id":"architects_palette:bread_slab","required":false},
+    {"id":"architects_palette:bread_nub","required":false},
+    {"id":"architects_palette:entrails_slab","required":false},
+    {"id":"architects_palette:entrails_vertical_slab","required":false},
+    {"id":"architects_palette:entrails_stairs","required":false},
+    {"id":"supplementaries:fine_wood_stairs","required":false},
+    {"id":"supplementaries:fine_wood_slab","required":false},
+    {"id":"#supplementaries:presents","required":false},
+    {"id":"#supplementaries:trapped_presents","required":false},
+    {"id":"abundant_atmosphere:large_puffball_mushroom","required":false},
+    {"id":"farmersdelight:basket","required":false},
+    {"id":"nomansland:shelf_mushroom_block","required":false}
+  ]
+}

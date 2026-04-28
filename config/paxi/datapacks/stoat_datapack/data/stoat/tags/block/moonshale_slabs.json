@@ -1,0 +1,10 @@
+{
+  "values": [
+    {"id":"architects_palette:moonshale_slab","required":false},
+    {"id":"architects_palette:moonshale_vertical_slab","required":false},
+    {"id":"architects_palette:moonshale_stairs","required":false},
+    {"id":"architects_palette:moonshale_brick_slab","required":false},
+    {"id":"architects_palette:moonshale_brick_vertical_slab","required":false},
+    {"id":"architects_palette:moonshale_brick_stairs","required":false}
+  ]
+}

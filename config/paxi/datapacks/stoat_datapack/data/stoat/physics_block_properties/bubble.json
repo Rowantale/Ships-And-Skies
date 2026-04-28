@@ -1,0 +1,8 @@
+{
+    "selector": "#stoat:bubble",
+    "priority": 1500,
+    "properties": {
+        "sable:floating_material": "stoat:sky_lantern",
+        "sable:floating_scale": 1.5
+    }
+}

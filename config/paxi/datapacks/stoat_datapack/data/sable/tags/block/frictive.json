@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"minecraft:honeycomb_block","required":false},
+    {"id":"minecraft:resin_block","required":false},
+    {"id":"verdant:saguaro_block","required":false},
+    {"id":"verdant:saguaro_arm","required":false},
+    {"id":"quark:cactus_block","required":false}
+  ]
+}

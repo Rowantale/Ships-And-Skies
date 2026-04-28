@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"#supplementaries:awnings","required":false},
+    {"id":"farmersdelight:safety_net","required":false}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "selector": "#stoat:floating_lanterns",
+    "priority": 1500,
+    "properties": {
+        "sable:mass": 0.25,
+        "sable:volume": 0.1,
+        "sable:floating_material": "stoat:sky_lantern",
+        "sable:floating_scale": 1.0
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "values": [
+    {"id":"#architects_palette:hadaline","required":false}
+  ],
+  "remove": [
+    {"id":"#minecraft:slabs","required":false},
+    {"id":"#quark:vertical_slabs","required":false}
+  ]
+}

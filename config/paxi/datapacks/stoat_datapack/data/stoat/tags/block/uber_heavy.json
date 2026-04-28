@@ -1,0 +1,6 @@
+{
+  "values": [
+    {"id":"minecraft:reinforced_deepslate","required":false},
+    {"id":"minecraft:netherite_block","required":false}
+  ]
+}

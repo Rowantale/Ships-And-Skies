@@ -1,0 +1,7 @@
+{
+  "values": [
+    {"id":"architects_palette:craterstone_slab","required":false},
+    {"id":"architects_palette:craterstone_vertical_slab","required":false},
+    {"id":"architects_palette:craterstone_stairs","required":false}
+  ]
+}

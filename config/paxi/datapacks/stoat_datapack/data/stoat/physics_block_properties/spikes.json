@@ -1,0 +1,12 @@
+{
+    "selector": "#stoat:spikes",
+    "priority": 1500,
+    "properties": {
+        "sable:friction": 7.5
+    },
+    "overrides": {
+        "powered=true": {
+			"sable:friction": 1.0
+		}
+    }
+}

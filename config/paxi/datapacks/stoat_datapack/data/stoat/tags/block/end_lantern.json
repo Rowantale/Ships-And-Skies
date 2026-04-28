@@ -1,0 +1,8 @@
+{
+  "values": [
+    {"id":"minecraft:end_rod","required":false},
+    {"id":"enderscape:end_lamp","required":false},
+    {"id":"supplementaries:end_stone_lamp","required":false},
+    {"id":"architects_palette:oracle_lamp","required":false}
+  ]
+}

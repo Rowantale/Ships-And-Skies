@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"nomansland:spike_trap","required":false},
+    {"id":"supplementaries:bamboo_spikes","required":false},
+    {"id":"#blockbox:spiked_palisades","required":false}
+  ]
+}
