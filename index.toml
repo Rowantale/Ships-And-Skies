@@ -62,7 +62,7 @@ hash = "6c19539e05905c97a444a612dd2b597001244355cc9a59c25b3079cd4665731a"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "9382337bd43877d577ce8a5a3e6c1c428ad8734f6449319b2e6b2fd50dc84dc6"
+hash = "d2bbc3c6c118632204f5c315e8e1bb0b6645771886e47fd128380a9e23d5ea6a"
 
 [[files]]
 file = "config/bettermineshafts-neoforge-1_21.toml"
@@ -1769,7 +1769,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "21928e791f5b50de6d426da23992691975762de76ef3d0b150657c4b228465b9"
+hash = "f97dc7e252bcb42fed16fc510f49ab345ec7ff54c52880982c86afaba576ee7c"
 metafile = true
 
 [[files]]
@@ -2104,7 +2104,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "25b5dfb19a7b9fc82bd8ee5d78ea02c122edbe9ca45a06020345cce03e1d8048"
+hash = "bb0ecc918bb85e7e11b90ff3957d635e84365a7747c4d66ed50b52451e114dc2"
 metafile = true
 
 [[files]]
