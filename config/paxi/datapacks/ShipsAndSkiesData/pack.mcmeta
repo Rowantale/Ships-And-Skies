@@ -8,6 +8,14 @@
 			{
 				"namespace": "aeronautics",
 				"path": "recipe/andesite_propeller_from_andesite"
+			},
+			{
+				"namespace": "nomansland",
+				"path": "recipe/integration/farmersdelight/bundle"
+			},
+			{
+				"namespace": "nomansland",
+				"path": "recipe/bundle"
 			}
 		]
 	}
