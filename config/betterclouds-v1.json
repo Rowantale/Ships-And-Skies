@@ -29,8 +29,8 @@
 	"selectedPreset": 1,
 	"presets": [
 		{
-			"title": "Default",
-			"key": null,
+			"title": "Fluffy",
+			"key": "fluffy",
 			"editable": true,
 			"upscale_resolution_factor": 1.0,
 			"gamma": 1.0,

@@ -62,7 +62,7 @@ hash = "6c19539e05905c97a444a612dd2b597001244355cc9a59c25b3079cd4665731a"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "6ad0b1139a6b66a7f68bec3a7668b7499ad6f2cca58ab155eade1276a1f12511"
+hash = "9382337bd43877d577ce8a5a3e6c1c428ad8734f6449319b2e6b2fd50dc84dc6"
 
 [[files]]
 file = "config/bettermineshafts-neoforge-1_21.toml"
@@ -825,8 +825,20 @@ file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/cross_to_r
 hash = "1c422fded2a1c1d922bed86044f8aff9fdc2c8ebcffde022408bd1a82e7727f1"
 
 [[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/fd_to_supp_rope.json"
+hash = "f579bec50ee957f511fc37d874b30fa04d847bcb820028b96b8e0400b74eef52"
+
+[[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/rail_to_cross.json"
 hash = "552d422ddbb1194741bf3bea4533727fe982cf8200e31809e9940e4a5a6a315b"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/supp_to_fd_rope.json"
+hash = "aacbff22a3580eabf561dadd9b90a7d0ec003a97a65e67f992e574e9cc629120"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/simulated/recipe/rope_coupling.json"
+hash = "bd340a99c84277b9da8ecc58cf4725e3f0dfbb8e3ea1607c44a73aebcf615d92"
 
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/pack.mcmeta"
@@ -1242,7 +1254,7 @@ hash = "ae2634e6d32c7fb2e3cfe195f0d5c3a4bd2a1e073890d0abcc982065b41e8219"
 
 [[files]]
 file = "config/simulated-server.toml"
-hash = "43f69b72502cfeb43e4b8584a1a8955120fcd25b31217ce199525127fd76e587"
+hash = "5e7afe8ef57879c961337c402608f19c8edcffe7548742543fe085da7a58e2f1"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -1458,7 +1470,7 @@ hash = "022f771e899ae3a0953a172e36e2b4c6bea556a4a8e467b0849eac101b943dda"
 
 [[files]]
 file = "icon.png"
-hash = "2ed39c8949b09cf2499f4c491542e2d86057bf2ffa77a8da944855e5fc0cdaf9"
+hash = "330e6525d4e413105354fd481a43d8cd019da442f49e094efcce665655b3ede0"
 
 [[files]]
 file = "mods/1-to-1-nether.pw.toml"
@@ -1728,6 +1740,21 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
 hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
+metafile = true
+
+[[files]]
+file = "mods/exposure-detective.pw.toml"
+hash = "41769b17d5cb46f946a28a707544a56008e9098a51aded161cf8c619638235eb"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "2db8a1000b77b6ffe9c7c8d6b60da85dc65fb552ed84423381780e0f403e96b1"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "03042a38a67189168d9ae266160a48c7e58391515c98fad4fc1e275e9913d868"
 metafile = true
 
 [[files]]
