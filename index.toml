@@ -1201,6 +1201,10 @@ file = "config/ponder-client.toml"
 hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 
 [[files]]
+file = "config/proplacer-client.toml"
+hash = "7cba7a250e9ad1c264b128ec0e10f760207b344333372e35840ea61b2a3ce86b"
+
+[[files]]
 file = "config/reliable_recipes.json"
 hash = "2fc8333ddc190d44d555f49da8857a5464d1b5fafe8844bb9a4b8f2688b9ab02"
 
@@ -2043,6 +2047,11 @@ hash = "140e2303a0237994208720ad52f153419b7cdd13cc6b577686a9d809882fee95"
 metafile = true
 
 [[files]]
+file = "mods/pro-placer.pw.toml"
+hash = "d1c1458aa10ccfc03b26da2cf372b59e390fee3656205b24d1a6e61836d88ef0"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "43a302411a4299552e08e45f1f93978a698557864d9fb376d8196584156c20b7"
 metafile = true
@@ -2244,7 +2253,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "874a0fa0ccaa0d3a4b39dc3e165cbb2f9c1dff7f6b7465ed4c724e2da0ee2500"
+hash = "f521589435d91f610d4fb87f288cc4f645173fbf55b4c367443af9aa1c37d245"
+
+[[files]]
+file = "servers.dat"
+hash = "b3908651c08ac5a2613fb90fb8114fde4dac4e76e4f119775ba18e3abdd0114f"
 
 [[files]]
 file = "unsup.toml"

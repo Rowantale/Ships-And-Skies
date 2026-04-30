@@ -75,7 +75,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 hideBundleTutorial:true
@@ -126,15 +126,16 @@ key_key.accessorify.open_widget:key.keyboard.x
 key_key.accessorify.open_ender_chest:key.keyboard.g
 key_key.accessorify.use_spyglass:key.keyboard.z
 key_key.modernfix.config:key.keyboard.unknown
-key_key.veil.editor:key.keyboard.unknown
 key_key.clientsort.edit:key.keyboard.unknown
 key_key.clientsort.cancelAuto:key.keyboard.unknown
 key_key.clientsort.op.sort:key.mouse.middle
 key_key.clientsort.op.stackFill:key.keyboard.unknown
 key_key.clientsort.op.matchTransfer:key.keyboard.unknown
 key_key.clientsort.op.transfer:key.keyboard.unknown
+key_key.exposure.camera_controls:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
+key_key.fast_placement:key.keyboard.period
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.previousPage:key.keyboard.unknown
