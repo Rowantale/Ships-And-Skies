@@ -1,9 +1,0 @@
-{
-    "selector": "#stoat:glowstone",
-    "priority": 1500,
-    "properties": {
-        "sable:mass": 2.0,
-        "sable:floating_material": "stoat:glowstone",
-        "sable:floating_scale": 1.0
-    }
-}

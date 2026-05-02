@@ -33,6 +33,10 @@ file = "config/accessorify/config.toml"
 hash = "8a5668fb8bbd41cbb7e4b420adcb41685d0315d5c7b373c0b73043c024f5cd2c"
 
 [[files]]
+file = "config/accurateblockplacement.properties"
+hash = "1c4c1a6d64f14028e3e9f4a351d5d82a3f743e6c33f9549a97de69f1f149b74d"
+
+[[files]]
 file = "config/achiopt-common.toml"
 hash = "e9247671f56b0e448914785063aef58cc1277f7a4b7b084334e06117efd8cd67"
 
@@ -845,338 +849,6 @@ file = "config/paxi/datapacks/ShipsAndSkiesData/pack.mcmeta"
 hash = "84126f96d6550c2b2f957189b51619b77013a6deb908f00dce36bb4ff8749897"
 
 [[files]]
-file = "config/paxi/datapacks/stoat_datapack/credits.txt"
-hash = "1b50968a4d074b54e8b26142aada2987f2a31c7aedf5b4f3566d6b8f1916ab8c"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/aeronautics/tags/block/airtight.json"
-hash = "d5056d27f10e53bbf3170f4527d6b2f1b6ecbc36b2929f0ae92fd3cf20ecfba1"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/bouncy.json"
-hash = "3d1d38b38da6bfc5aa34932dd7a9fedf58a5f8c95d0887b08d0e347578738d4a"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/diode.json"
-hash = "762dfb1ae9d3385ceb956e299d40b2d62b9bcca6c63b7d1c311f39e05928415d"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/end_stones.json"
-hash = "087b224558a4b7dc969db3b154ca084040feacba235df51341daffa8fcb3c5d6"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/fragile.json"
-hash = "f5347e9038902944241b807b59b5b586d1f24e50c9609b45bdf7d162e3482df0"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/frictive.json"
-hash = "7293e91fccba6c8c0d21b7b69c37af42ef5f9ce2a60d460250df4b1dc6f7d117"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/half_volume.json"
-hash = "18b778ddd17eae03e8c6690968b603d593526f1346b7982730ec3e5672ac3f32"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/heavy.json"
-hash = "bb18f40291a512ac6d630bee742c78b8b08d335c6b04d552751b960a9b7be6c7"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/light.json"
-hash = "63331af385b885160ff56c3894287371061e564a5fdbceabde712de6aa9072ec"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/quarter_volume.json"
-hash = "6cef59b83043b3d8dae1a75944ceee67ddc9bffaa448f3bfa9ec808ed6e9e056"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/slippery.json"
-hash = "573865f6c95b5aba80bc57b3718a213b249f044e0e6c64d75be31712fa120706"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/super_heavy.json"
-hash = "29d5832848cda9fe1652aee7a6a66ca5394efe695d7c21b3f5d6c02300c0afcf"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/block/super_light.json"
-hash = "5f5ff24a0ff566f62912542fc5340ddcc86f5ba74d26138f51a070351aa47bce"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/entity_type/retain_in_sub_level.json"
-hash = "b556ff1fa0ce253b14268280b59086c4a8dcb48e3944d4aac88ee902a4a87a6f"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/sable/tags/entity_type/wall_entities.json"
-hash = "e944ad4116fbc478dcaeadf7c5cb56aee596d71d1f5e950e01261d8aaef7e5ae"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/floating_materials/chorus.json"
-hash = "61e81b68bd9c2f395963b85116cf03cc571d8970a470ebb3ba04d0030e60980a"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/floating_materials/end_lantern.json"
-hash = "f9fb7d25d67936d8dbc7ee738238bd5322679972636d07c0442f19474a25e7db"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/floating_materials/glowstone.json"
-hash = "5929456d3406c58e555e2f06eec63cb58394ebf1f7e345a1a3a6463b8b7b55d7"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/floating_materials/moonshale.json"
-hash = "dc95381f01994bb1b9b5f050db8a3a8c437a632b5ee5bb3533fc8462a50355a0"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/floating_materials/sky_lantern.json"
-hash = "fe71b55d8b3c9d11f2fb09fed22d85c8694ae87b4ceb7adea8ab1bcefa4d7d72"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/abyssaline.json"
-hash = "f29d9cf538b2961422b69fbd31d938c53e47833f2b094e42e465bde5560473bd"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/abyssaline_slabs.json"
-hash = "fac1c42191f14d7ff789957899500a75b5d8316ae70588709b5dcc78d8469084"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/bubble.json"
-hash = "bf0691e2c9e580d362bffbdb1b3d981918e2d5697f6c6c666ae579aa90eb1be7"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/chorus.json"
-hash = "47a970502eb07e57e68f17e6709e661687335f6f436849b9007c6a8f6dce5883"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/chorus_half.json"
-hash = "bb90abdf0214528989ebee61efe0fabd73f70beee126f38213d33b710ea6c539"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/coin_piles.json"
-hash = "f70c03b1fd2678b57eaf6c615777048fcfb49d822f087f80d15cc0a5dfb617e3"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/craterstone.json"
-hash = "80734d5672e2ea34675bf1ba5cac04cef8c0253ba0786e1a4dec61a2e7005ef5"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/craterstone_slabs.json"
-hash = "ac769b1961e31132613438a2fb5fd34eddcd10166b691c5e7b7aaf25cfc7756b"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/end_lantern.json"
-hash = "ffd6cc580898006e71b01d7bda7e0322c21df323d48d4d7419b2d69b9aa30a3a"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/end_stone_light.json"
-hash = "5c8b5df9cf7137728fa9fc0079c8e2821fd0f6d5b414856b78026d82f5ed508a"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/floating_lanterns.json"
-hash = "f815c38651bad0f9ca248fef352d77ac8a938de2383494c52a705c913fa930e2"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/glowstone.json"
-hash = "5d6b4cb84aa1f71b8bba38f1ab8ab2bc3a8961d27f5ddb15276601452aad8c76"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/glowstone_light.json"
-hash = "ce12498bb6d79b79dcc59af01e686cd2ba32bb606ff0776e3dd1848e59497fdb"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/hadaline.json"
-hash = "8355043e81343725622fce0865781e2a648c25827bf6398d356b8ec68aa7aff4"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/hadaline_slabs.json"
-hash = "5629e97a9b1cc3438a0f082a8796cd9f212a374a588edefda3564f94c31581fb"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/heavy_coin_piles.json"
-hash = "a26efaad18528afd30dc9e7e93ca9d452f72aaf04b42e6262ba3ad5e0f68034b"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/moonshale.json"
-hash = "c297221721bc5ace92bb0ded13fff0123c0dc44f1c0925c1bbdf0ec33fd11554"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/moonshale_slabs.json"
-hash = "cf4b09a0de6bc9f3bf621779addabb47d13618ecc815fd331f20df4126e47e7c"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/nebulite.json"
-hash = "333d8f61f1e209953e9a16963b89ecafc4a58cc947f614b6fa882b82ff865ee9"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/nebulite_horizontal.json"
-hash = "b68e0c3ef90962808421acb1a55099a78509b6281674ef48ce6f393dce7f4aa8"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/nebulite_vertical.json"
-hash = "60c9a07389e11b40055c134cb6d5f1105ae5de60efee7d260b0795c8283649e4"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/powder_layers.json"
-hash = "e5f74e0c714357f02e73c246ad09edd0a5d0aef4f39c4543693f01fc6a00f398"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/rubbery.json"
-hash = "1067272b587f2c8c46516ef13d6413760c3f12ca6d531a970cc326d112ead1f1"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/slick.json"
-hash = "7a3ac32aa65e55920717275b271a39eb823f2b851ca470a51dcaca370a9e0d84"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/spikes.json"
-hash = "c453b223838bd0110c2304a31abc064d5538dda9f5fdbad1f03788baeeb56cb3"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/super_bouncy.json"
-hash = "4804da9b36f40f1067eebed042f2a5c6a68fb1502e1e283602fe6e7039dad607"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/tacky.json"
-hash = "29c96e1dee00fe0ec5aa549c1c46824c34c215adf549c684cdb67b518f7f5328"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/physics_block_properties/uber_heavy.json"
-hash = "bfde8ddcea5383764eef7c5e27a7eb98fe15d524704724192578ec20fc3ff7da"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/abyssaline.json"
-hash = "17586fa60cd9c4a49ea6637e7f48f131296c2ea5c3e66a434b1eaab66d490e63"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/abyssaline_slabs.json"
-hash = "f333671801e27c906df5eb275dc721dc131f4d6390697da76adfc0f50c0843c4"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/bubble.json"
-hash = "94bedc8ab655a12b79e18240b70d476a4567def283849bdcc16348ff0dbd3a19"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/chorus.json"
-hash = "e0a0e203c4f5b2d9d82fbf1d9fc01f97064fa51c305eda4aa0928ed39e1bc1f4"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/chorus_half.json"
-hash = "470199f70b3953051653741c0fc83d41c5c3f5d3cbd4e42e38d06bcec88a07d4"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/coin_piles.json"
-hash = "09ada1a38588537fe5f5a387c137468a5b20ebf3691b50ba82f9de35dfe17259"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/craterstone.json"
-hash = "00346cb38e92da6732ab5128378e12334606ee8c3b56f8439ab90b7fc3deeaa9"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/craterstone_slabs.json"
-hash = "96fd7b1711759cb739f641bcba041dc4f9bd10b3d9ef0d74eabf502305edf8d2"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/end_lantern.json"
-hash = "5526e69b98813e7c80fde0db3f97ddece5821ca7eb836d7390450ed53cbd691d"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/end_stone_slabs.json"
-hash = "e1afdd494b5a72e421d69522209c9a007cd2da598331e525b08a9fdbf57e3cb7"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/floating_lanterns.json"
-hash = "721507543eed202989a6c50244f5511ed7fcf343d873ad51ddd271234e645dfb"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/glowstone.json"
-hash = "6776368ea6d5c36e9e5bb49bc00b0eb18aea915d51dced60fedc22ba19f28c41"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/glowstone_light.json"
-hash = "a2d2cc0e75ec57269cd0f2c8be4c7a2d2347885720d931a0a8801677751e2357"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/group/half.json"
-hash = "f8c05efc6cf148b8a2bfd2ca0603246cee6c2aa966897c66d90341cb8b4ecf45"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/group/half_bouyant.json"
-hash = "f53c64ed2033525c937fcd4651f983598dfb69cbc7dfb1825acd88a833340dbc"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/group/quarter.json"
-hash = "56a7d6f0784c1849ea4bb6e51dc9689fee285d94774fdab5bd8924cb12d679d4"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/hadaline.json"
-hash = "5397e669433d7fceeb2e9e7163bc3a8858e6d81f17436754380bdc5f8bc1e599"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/hadaline_slabs.json"
-hash = "d2abe3e4efb40aca70f25055760dc5c8e5e5e8d199328f1558fc4c29935d6766"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/heavy_coin_piles.json"
-hash = "d6d797755549fb27bfc354e7b9a5df62dd6a195871fc8dda6295920261383fab"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/moonshale.json"
-hash = "8399383351151b1041ac61238129c79a505ee476fbbef1fa000130754abf398d"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/moonshale_slabs.json"
-hash = "19cf91086bc0a152032960fe2b2eb19c34c3e8e79bc26a81ba33a171609a1f76"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/nebulite.json"
-hash = "a2c21f59de7a7c95bb3d02ad3395b72de4ea56bdabea1a00f2b328055f570bbe"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/nebulite_horizontal.json"
-hash = "14214668ee35fe3a7f907a95fc89d3a7eda1179fefb9d11e9fbe94980a9f6b7d"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/nebulite_vertical.json"
-hash = "bee32c8a9d02f7227a36e04fa088db3a8da7562b30a7e3d1422204789519bc17"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/powder_layers.json"
-hash = "c0cbe39eb1d339da3c2cac2a679629307c84a0180b6e3bfbb51d0b99f1095dbf"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/rubbery.json"
-hash = "8c437d96d6b31f3e84a173b008936eb85321e6af981bf2fc79b01fae0f1f2555"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/slick.json"
-hash = "ccff8964f333f77c7d2395687d8dc1535f16524c6c78290bed66e3912abd9095"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/spikes.json"
-hash = "0b0d49e2b9f64e2c479bcea3f1916ddb66e483fbcb3fc999faca82dfba9068d1"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/super_bouncy.json"
-hash = "0e584512e2a589ea0cb6c1cbeb2d2db4026b45a0a9b57804597cb3321154cda3"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/tacky.json"
-hash = "f05af278c7607255a66546fc95a2d49e6b067a90a2a164c74062e943b31d692a"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/data/stoat/tags/block/uber_heavy.json"
-hash = "7ad6f6d4ed199fed178e2d90254da98701521b4095a0de626743d1672e576237"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/guide.txt"
-hash = "052d8aae86fdaeff154468c214f4df833bb957531ca82b37e55c34e628ee28d2"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/pack.mcmeta"
-hash = "61304b83474e1000bfbee0cb1f877f53d58be4cebe215ee2899d6d1d5438f220"
-
-[[files]]
-file = "config/paxi/datapacks/stoat_datapack/stoat_icon.png"
-hash = "2e1963782aeb686cfa3f075e7cd97c57f1d80831d4ab9e594662bdaaacfab538"
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -1564,6 +1236,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "cb384f77fe756e099d917045d7862e6900745a53d40d51553bcc6ed6e5836aa1"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "152fd231ec725eb323fce803f4a576a6709d3df6143ace5df51de8941f60a17d"
 metafile = true
 
 [[files]]
@@ -2047,11 +1724,6 @@ hash = "140e2303a0237994208720ad52f153419b7cdd13cc6b577686a9d809882fee95"
 metafile = true
 
 [[files]]
-file = "mods/pro-placer.pw.toml"
-hash = "d1c1458aa10ccfc03b26da2cf372b59e390fee3656205b24d1a6e61836d88ef0"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "43a302411a4299552e08e45f1f93978a698557864d9fb376d8196584156c20b7"
 metafile = true
@@ -2084,6 +1756,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b7108d11b2aadb3b0f5beb05cfaaad7219f7ce145cb5ca72c4caa51641bed7cd"
+metafile = true
+
+[[files]]
+file = "mods/reforged-accurate-block-placement.pw.toml"
+hash = "cea222cefde464e8124bd162f9a0af7380213ef6e4e17abed8f6d39f1666bc1e"
 metafile = true
 
 [[files]]
@@ -2134,6 +1811,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e79139f362694836c402c4ca6cf7705b1c1bd5c219b32cb3b2ad8ff48b265a82"
+metafile = true
+
+[[files]]
+file = "mods/stoat.pw.toml"
+hash = "acf61eb27660045e19767d0041fbe4a2fbaff8d2d59e12ed55ccc735c3b20c82"
 metafile = true
 
 [[files]]
@@ -2261,4 +1943,4 @@ hash = "b3908651c08ac5a2613fb90fb8114fde4dac4e76e4f119775ba18e3abdd0114f"
 
 [[files]]
 file = "unsup.toml"
-hash = "e0f6923e048cf86d3bc37b5aa0e0e044d6f4559a6df19c08be967521a0d9bc1e"
+hash = "339201b1a678ae78b11eb9534c68ebd4abf2bf2ea9d2b2d09ae7cc78fcb4428d"

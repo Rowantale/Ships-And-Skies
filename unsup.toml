@@ -37,6 +37,19 @@ id = "farsight"
 name = "Distant"
 description = "Adds Distant Horizons - preconfigured to work with Better Clouds!"
 
+[flavor_groups.placement]
+name = "Placement"
+description = "Install mods for faster + reacharound placement? May not feel right, but can be useful. Mainly including this so people know it's fine for the server."
+side = "client"
+[[flavor_groups.placement.choices]]
+id = "java"
+name = "Vanilla/Java"
+description = "Vanilla block placement behavior."
+[[flavor_groups.placement.choices]]
+id = "bedrock"
+name = "Tweaked/Bedrock-ish"
+description = "Remove placement cooldown in a line while holding the button down, and allow placing around block edges."
+
 [metafile.iris]
 flavors = ["yesshaders"]
 [metafile.iris-flw-compat]
@@ -45,3 +58,7 @@ flavors = ["yesshaders"]
 flavors = ["shinies"]
 [metafile.distanthorizons]
 flavors = ["farsight"]
+[metafile.reforged-accurate-block-placement]
+flavors = ["bedrock"]
+[metafile.bridging-mod]
+flavors = ["bedrock"]

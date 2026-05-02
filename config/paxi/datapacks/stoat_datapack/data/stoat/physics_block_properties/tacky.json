@@ -1,7 +1,0 @@
-{
-    "selector": "#stoat:tacky",
-    "priority": 1500,
-    "properties": {
-        "sable:friction": 1.33
-    }
-}
