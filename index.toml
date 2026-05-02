@@ -1836,6 +1836,11 @@ hash = "e79139f362694836c402c4ca6cf7705b1c1bd5c219b32cb3b2ad8ff48b265a82"
 metafile = true
 
 [[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "e92db34f26777907af18c773f61048cedfbc1686987ff567b7ef841382d22661"
+metafile = true
+
+[[files]]
 file = "mods/stoat.pw.toml"
 hash = "acf61eb27660045e19767d0041fbe4a2fbaff8d2d59e12ed55ccc735c3b20c82"
 metafile = true
