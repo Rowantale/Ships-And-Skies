@@ -1760,7 +1760,7 @@ metafile = true
 
 [[files]]
 file = "mods/reforged-accurate-block-placement.pw.toml"
-hash = "cea222cefde464e8124bd162f9a0af7380213ef6e4e17abed8f6d39f1666bc1e"
+hash = "b5f8d12fd35938129343f6955d4825935ddac7ba9bada6810845d5862a895724"
 metafile = true
 
 [[files]]
