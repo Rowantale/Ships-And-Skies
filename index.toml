@@ -1331,6 +1331,11 @@ hash = "2e70f18fb3d6d7cb3a66b1ddd2912291d1789dfa1c3cd8d9921aa29184e2ea41"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-compatability.pw.toml"
+hash = "5002fb1e8102bc5b7e8c167e2ad3fac012683e883e907c87c130d62b2d36b41d"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
