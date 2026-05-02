@@ -853,6 +853,18 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/ShipsAndSkiesResources/assets/emi/recipe/additions/activating_vents.json"
+hash = "1030d8680851a2f652e5f20d3a77b2ef91f5eeddada3385d2794837a4b38e488"
+
+[[files]]
+file = "config/paxi/resourcepacks/ShipsAndSkiesResources/assets/emi/recipe/additions/rocks_from_vents.json"
+hash = "6230c261e6e6c21381285e473b49fba30d0c1ac1ff20acb331f03f714508e825"
+
+[[files]]
+file = "config/paxi/resourcepacks/ShipsAndSkiesResources/pack.mcmeta"
+hash = "2da52c03e18e49ce947878fb306d75d2291756b8377959a2de508d1f30edf1d1"
+
+[[files]]
 file = "config/personality-client.toml"
 hash = "5e167aba172951da6ca3579f87fb0b42bfdc63082855cb753653e1faed01f70e"
 
@@ -1324,6 +1336,11 @@ hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "41b6fd03f19b3fd2b0cb81669f1591308693e4a87c0d74fc6e9201a3e399de47"
+metafile = true
+
+[[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
 hash = "3f4767000b82b1abb84da1162fe39203e437c43da98b08dc78a8a05a1f9aad5c"
 metafile = true
@@ -1789,6 +1806,11 @@ hash = "de0ad583aa9db402d80b01f87ebe8be708c9a572efcb35db431b8524e11f947a"
 metafile = true
 
 [[files]]
+file = "mods/rpl.pw.toml"
+hash = "75dcc598339b396de9aaea2896fddc1a8a667cf565905b9f6f8688ed73a4ccae"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "5aea527dd671cc16b9d4dde1cec35dbbe1bbabc3a37ba62d537863daf2f8ef95"
 metafile = true
@@ -1881,6 +1903,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "3147378b4aeca4cafcc7bef2b54a22ab7302ea71b368a5a58ce2b913be80cd56"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "9fc1bca7e4bc5a06dc97a2bac959baf9a68115ee34a79ff5fc84b5d4771c5990"
 metafile = true
 
 [[files]]

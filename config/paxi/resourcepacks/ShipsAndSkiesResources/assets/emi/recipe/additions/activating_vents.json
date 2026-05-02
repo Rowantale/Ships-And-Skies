@@ -1,0 +1,18 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:molten_vents:dormant_molten_asurine",
+	"item:molten_vents:dormant_molten_veridium",
+	"item:molten_vents:dormant_molten_crimsite",
+	"item:molten_vents:dormant_molten_ochrum",
+	"item:molten_vents:dormant_molten_scorchia",
+	"item:molten_vents:dormant_molten_scoria",
+    "item:molten_vents:active_molten_asurine",
+    "item:molten_vents:active_molten_veridium",
+    "item:molten_vents:active_molten_crimsite",
+    "item:molten_vents:active_molten_ochrum",
+    "item:molten_vents:active_molten_scorchia",
+    "item:molten_vents:active_molten_scoria"
+  ],
+  "text": "Blowing up an inactive vent will convert it to an active one."
+}
