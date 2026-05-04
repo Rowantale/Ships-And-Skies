@@ -206,7 +206,7 @@ hash = "b831f035581e8bb1e02edf414bb01dfe9f96146abc30a5614712c7257eff5cd1"
 
 [[files]]
 file = "config/fallingtrees-common.toml"
-hash = "27a1a0a809c08015b087905b75cf92a3e59bd9c2a9720df5d811004761e48a9c"
+hash = "66e6f38bffebcfa2f676e7d7192afd0f872b0cec90b6121bb2d4e752cf876c45"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -681,6 +681,10 @@ file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/dimension_type/th
 hash = "ca15e872c92312f5bd075e71fc3757648e57f977be0227a14b7c4016e08b69d7"
 
 [[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/loot_table/blocks/jungle_leaves.json"
+hash = "c6d50596d712c212a7243bd8b5975b508dad132c8737e05237a5056391a3a632"
+
+[[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/recipe/chain.json"
 hash = "7256ab2c7dffdccf370ae9902d83a4895010104f673f208f64a24328bdd9caae"
 
@@ -930,7 +934,7 @@ hash = "ee4aad9828215eb7bdf9a8fdbe53c1869819d21b0ceac8a02d90f42863631511"
 
 [[files]]
 file = "config/rightclickharvest.json5"
-hash = "e179e7f9a6cf3f03d03a171891d469fd7bd159fc4552cf25ef9ca2c4e1e68503"
+hash = "164bafb8afaa713a3d4079bfe18d1c03a41626f4ea7ca417049535d95577d220"
 
 [[files]]
 file = "config/sable-client.toml"
@@ -1022,7 +1026,7 @@ hash = "57569110a12ea27fdb58856aff27d6d5b5a031d75fbdb5e70de0d9e0e9e3b0d6"
 
 [[files]]
 file = "config/treeliable.json"
-hash = "c05cea8f2b45d49fc27355b79a07b8cb9e24fb6ca284cc405a181122fe900405"
+hash = "f67c7fd0a3847d044ad2ea9a16d78961b161a258d3aba02dd68a34900bf4cfef"
 
 [[files]]
 file = "config/trender.json"
@@ -1034,7 +1038,7 @@ hash = "2eabc2a7b4aa61e8b611c4928e521269906b12221138882357331292492093b1"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
-hash = "01659d81d0ce3a9e77bfca6bdd4f40a04ca95cb97591be26526e75c1827c4ba3"
+hash = "45f8f001f6e21fecc496aa8edb665a81796c12c85a39cfd3cda68d1574dfab57"
 
 [[files]]
 file = "config/vanillin-client.toml"

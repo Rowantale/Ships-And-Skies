@@ -10,7 +10,7 @@
   "chop_in_creative_mode": false,
   "hytale_like_felling": true,
   "delay_felling_layers": true,
-  "felling_layer_delay_ticks": 2,
+  "felling_layer_delay_ticks": 10,
   "exponential_felling_speedup": true,
   "max_tree_blocks": 1024,
   "max_leaves_blocks": 1024,

@@ -19,16 +19,16 @@ doMushroomFall = true
 # Range: 1 ~ 10000
 maxBlocksForMushroom = 200
 #List of stem blocks to be considered as mushroom stems
-stems = ["minecraft:mushroom_stem"]
+stems = []
 #List of cap blocks to be considered as mushroom caps
-caps = ["minecraft:brown_mushroom_block", "minecraft:red_mushroom_block"]
+caps = []
 #List of logs to be considered as tree logs
-logs = ["#minecraft:logs","minecraft:creaking_heart"]
+logs = []
 #List of leaves to be considered as tree leaves
-leaves = ["#minecraft:leaves"]
+leaves = []
 #List of blocks that can be attached to tree logs on the side e.g. Cocoa
-sideAttach = ["minecraft:cocoa","nomansland:shelf_mushroom","nomansland:shelf_mushroom_block","minecraft:resin_clump"]
+sideAttach = []
 #List of blocks that can be attached to a tree on the top e.g. Snow
-topAttach = ["minecraft:moss_carpet", "minecraft:snow", "#minecraft:wool_carpets"]
+topAttach = []
 #List of blocks that can hang from a tree on the side e.g. Vine (Vanilla is always included)
-sideHang = ["minecraft:vine","nomansland:cut_vine","minecraft:pale_hanging_moss"]
+sideHang = []
