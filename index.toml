@@ -677,6 +677,134 @@ file = "config/paxi/datapacks/ShipsAndSkiesData/data/enderscape/recipe/bulb_lant
 hash = "715c425da3158d4cb3ebf2dedcb9a50e7fcf29425295ca82cd2941f5ea9219b4"
 
 [[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/black_chair_from_other_chair.json"
+hash = "624e897d3558d1b4d65076f5b4a99fbe6155e47e99e70cc471187ee04368cf91"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/blue_chair_from_other_chair.json"
+hash = "9d3e979951fce16d19e67c870d3ce9cf778eab8448ddd83fe9b40aaa411bc243"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/brown_chair_from_other_chair.json"
+hash = "75757a0e554f2e84da1a8f111e80b59fd7fe70a52c190965f3332c2e0326403b"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/cyan_chair_from_other_chair.json"
+hash = "e462a33a9ff6a8c779fd44e1529fa771fab3d1672c2a9bf8238519c10d6835e7"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/gray_chair_from_other_chair.json"
+hash = "a9df1a3e0e7410e9a790bffb3474ceb5c7336ce616783d6a8c99bc2ba21e52d8"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/green_chair_from_other_chair.json"
+hash = "1cba8928577cca6aaae415c07ed9410aa3d009d216025953851a4934f4211e00"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/light_blue_chair_from_other_chair.json"
+hash = "f6f168bbf7fa4633201fd2bd0528354ec7560de88495a1efc670cbde678ada4a"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/light_gray_chair_from_other_chair.json"
+hash = "653cc3e428872256f2152978084b0212e0afcbf19478c718fda6067224dd2147"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/lime_chair_from_other_chair.json"
+hash = "259f2c8b835341407165d62a86cb2484a412361d9c120c49e2ad6e5f0166aa81"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/magenta_chair_from_other_chair.json"
+hash = "1e852687a0c393b006e95f441db873f124a7ab7f84720fdc71057c90fef9539b"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/orange_chair_from_other_chair.json"
+hash = "6fd818335d3f60dff0168abbc1cff1b24c779a58d888eaa06c4d279e770d65a9"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/pink_chair_from_other_chair.json"
+hash = "37de6dd2b2cfab22ebacbcf38951d072f198fae653ad1dfaaaeabbb617601388"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/purple_chair_from_other_chair.json"
+hash = "fe1f1610166e3a03a2a5d9254940b49246d9a0caf532b2a76ae36046490e189e"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/red_chair_from_other_chair.json"
+hash = "83693954730bbd60a64add9219fe665691854b8b4f720e928d4427f3d02ef849"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/white_chair_from_other_chair.json"
+hash = "f4afddbf590e5ef22efa458a887269f8207ad20c2174ccf5ed5b96833152edba"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/chair/yellow_chair_from_other_chair.json"
+hash = "703c0307a99651196b6f78876669d53b2b28f95a01138829dfeca1c83945becd"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/black_floor_chair_from_other_floor_chair.json"
+hash = "32aac4de13a8870bb7f47ee003a91cd82ae0cd4a2610605e6b5f9525ca957559"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/blue_floor_chair_from_other_floor_chair.json"
+hash = "ea5087651256ea279a1ace7733f8ff95ef25da8030e1bf2aed6a244cde540e77"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/brown_floor_chair_from_other_floor_chair.json"
+hash = "9a31299fb2edeb4a6065e261078f11a3d15dfda0fe3e397402fc92a7b8d7a2a6"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/cyan_floor_chair_from_other_floor_chair.json"
+hash = "37197d9de94d3d94fb278263c5300db22ad777a6c8296e620dc9dcf377a20e62"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/gray_floor_chair_from_other_floor_chair.json"
+hash = "6c8b037f41714b75da306ebcac6232336041be17ae1c3d77074d61d681e97b6d"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/green_floor_chair_from_other_floor_chair.json"
+hash = "e4fd8f433808141a54b57ea2c8ea034524ac19dcfe3dc3cff2b54dc609e86c41"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/light_blue_floor_chair_from_other_floor_chair.json"
+hash = "5216a2005466b2037d7c413ebf06cef3a0e8e17a8850f95237a47bc9b572f932"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/light_gray_floor_chair_from_other_floor_chair.json"
+hash = "949da1cbcadf01bd342abc683235a7ca67634d49c1bb9a41dec3d84228791212"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/lime_floor_chair_from_other_floor_chair.json"
+hash = "5e3f79a4fe43e386336f7e12775e4e3c582ec8779abc9a323ec48ac71c017cff"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/magenta_floor_chair_from_other_floor_chair.json"
+hash = "35c61459f28ea46af38e95da0b6091a73933cd78b9c6d3b3676dec515aed36fe"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/orange_floor_chair_from_other_floor_chair.json"
+hash = "7a958a22c7ab61921723a72d31f2fb570de3a16f1b36163144e22e20afb61d66"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/pink_floor_chair_from_other_floor_chair.json"
+hash = "2f077abe0440c078cff74feac08b7cd9b9a3ba6cdb2d59dc88d0aeadee270783"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/purple_floor_chair_from_other_floor_chair.json"
+hash = "505bf17fcd4dcea66fe3c2303e9e504fdf7018edadc7b67a506ad9975823e788"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/red_floor_chair_from_other_floor_chair.json"
+hash = "502af1d555f93925eb7bb95703180441ce4b4f736131b3380e10614fe9612f6e"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/white_floor_chair_from_other_floor_chair.json"
+hash = "efd56d9ebe1a52cfcc773ebb0ffdff81aebf6fba3a71fe8303e4f091cee413fc"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/interiors/recipe/crafting/floor_chair/yellow_floor_chair_from_other_floor_chair.json"
+hash = "770969254a9138d45b46c4ae2e60384dc6696b20eaf4f589333e283f1e39ef3f"
+
+[[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/dimension_type/the_nether.json"
 hash = "ca15e872c92312f5bd075e71fc3757648e57f977be0227a14b7c4016e08b69d7"
 
@@ -829,6 +957,10 @@ file = "config/paxi/datapacks/ShipsAndSkiesData/data/naturalphilosophy/worldgen/
 hash = "d358c483dbdc87d232de5332914f7e9d4daf5f6a80b275b40d05dbde788145fb"
 
 [[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/nomansland/recipe/food/fruit_cake.json"
+hash = "e60a608f596969ea2f0a65132984971df5f11b24f9c3ca8088705c4a0e0d6482"
+
+[[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/cross_to_rail.json"
 hash = "1c422fded2a1c1d922bed86044f8aff9fdc2c8ebcffde022408bd1a82e7727f1"
 
@@ -843,6 +975,10 @@ hash = "552d422ddbb1194741bf3bea4533727fe982cf8200e31809e9940e4a5a6a315b"
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/supp_to_fd_rope.json"
 hash = "aacbff22a3580eabf561dadd9b90a7d0ec003a97a65e67f992e574e9cc629120"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/sable/tags/block/super_light.json"
+hash = "776539b2cc8982947c8f05f417dae9668aa18ef42b44d6c024721e4120eb13ab"
 
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/simulated/recipe/rope_coupling.json"
