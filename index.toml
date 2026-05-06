@@ -574,7 +574,7 @@ hash = "9fa32298dabe09d125fa4938871c1f213a66b38dd1b531975d03278cf838e7f3"
 
 [[files]]
 file = "config/passablefoliage-common.yaml"
-hash = "2b5c3ec01647b61f117df474823cd16c24318e5e77484eebbe5c98fa12d56387"
+hash = "5d98ad107a23e062dab39a88bf4aafe55b64d0340966f8ac7d8728db55dd95a6"
 
 [[files]]
 file = "config/paxi-neoforge-1_21.toml"
@@ -1390,12 +1390,12 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "9c8814d90be5ecb25ed259775b644eb3fce3722094f5806ec926a43ad57bf80c"
+hash = "0a7216580d2d9bd351fa4572ab92895c70bb81be44d86b70d0557e97ccc8db7b"
 metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "cb384f77fe756e099d917045d7862e6900745a53d40d51553bcc6ed6e5836aa1"
+hash = "17f6dc669018b4450ccb3a5eafbc7b681b92336d189cf98d6df9ee726da28804"
 metafile = true
 
 [[files]]
@@ -1445,7 +1445,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "32bd27eeab2b4258d8af6aadd27c246ff79eec5e2c547ea51ffe7adf4d99d858"
+hash = "67b14c03c8920fc58b1510bb24bbc07aa4129132eac9e97620fcebf5e8e55405"
 metafile = true
 
 [[files]]
@@ -1525,7 +1525,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "b5cfc17b7374a336306dff56c4af769ff8e811e134cb0e1d9d426b8e603722ea"
+hash = "3023aad26f82bce60ac675c8b2e7fb07e148ccb99e3520f81d8c367359ed14b6"
 metafile = true
 
 [[files]]
@@ -1600,7 +1600,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure-polaroid.pw.toml"
-hash = "2db8a1000b77b6ffe9c7c8d6b60da85dc65fb552ed84423381780e0f403e96b1"
+hash = "fd0e289681afb22832866a02043e909040af04eb4199de2ca64d065a7f8a8b49"
 metafile = true
 
 [[files]]
@@ -1700,7 +1700,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "d2c3a731cfe5dc57f5bf47ba542335a2abcbd2d9095aa6471ccc98aa57005401"
+hash = "eee12d965c0fb10bd5d7b90e5e1a6c0e30049cd4b66bb594d95755c3fb95e47c"
 metafile = true
 
 [[files]]
@@ -1760,12 +1760,12 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "c15b13ece3ef9bae58e263b225e29e75766ab5b4852c1bada269e3724fdf6e68"
+hash = "7d655b6f8b2ac61562a611b8fc290ae290c60b97379ecf5512c509b8adab94af"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a074ec86a5a1f5641155ea24660ef50180155a7759d1e8a71c5bfab48e17e38b"
+hash = "6457efbec47570ebec4b686b279e771e6624c7e0bc9f43143bba966b6740d0f0"
 metafile = true
 
 [[files]]
@@ -1840,7 +1840,7 @@ metafile = true
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
-hash = "290847ba8d9e4ef31a2adcd24d4cc68bc64516da288054292ea89b6e8b3a382f"
+hash = "9dfb0d57dc66f04b3b197efa1859a90b1763c9b36af8fb55cc941d12a223bdd5"
 metafile = true
 
 [[files]]
@@ -1880,7 +1880,7 @@ metafile = true
 
 [[files]]
 file = "mods/personality!.pw.toml"
-hash = "a8624aacd449b1edad64dafda1c1c25f8321998d7b07a95e9c2cf1c66ee7609d"
+hash = "d7f470e016d3c0bd131c49de50d245548b3939e8c97e1970ae1f392f894b532d"
 metafile = true
 
 [[files]]
@@ -1905,7 +1905,7 @@ metafile = true
 
 [[files]]
 file = "mods/rapid-leaf-decay.pw.toml"
-hash = "f043ed3e14ce237a49f4a7b9f1029ff005d2a8b2a58d7f07460e6e213f8f957a"
+hash = "4e7b6d1cb0368ea14e588bf43b0dab225316c823f0cc285ebd4bb2dc16d0e971"
 metafile = true
 
 [[files]]
@@ -1930,12 +1930,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "bcaf3c76456464fb86148f3236b2e9ab1a5e28322f0ccde0d460b36371d484ed"
+hash = "422167545e3a04452bd88cfeeba27e8f8d68b70300173394f788c7d811afd027"
 metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
-hash = "e652939e096fe2c6aad19a973da7df64c5af8260dc598007f443e0432012cce1"
+hash = "4771f4e23e5759acfaccdf822a8ea87a6539a62482d6b4b1886e519f226799b3"
 metafile = true
 
 [[files]]
@@ -2000,7 +2000,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "a93be2ea8e2983986821ba8063ae97824f832019a55db714d97a20adba8159bf"
+hash = "d38b83e1c865b6c11c1e7a9cf96a41eacd9bd4d16e500708e680a597a828a687"
 metafile = true
 
 [[files]]
@@ -2085,12 +2085,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "24f73e3915b331c444ef0edf443e71c6d2329c7a45983151766dc2315b8d33b4"
+hash = "e94b29c9f23ce22a8e0a1f8dbc495b2c0fb668983bc9ba2ebf2560aa184e6d3e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "84fb01cba4ac8c8c3ae01a120b68aa7a2d7d2884998ab566bd8f44a1f96589c9"
+hash = "ed20e4c805302f23c05968ab85ba1b4ae2f27f4060a16e58f5705854542dc225"
 metafile = true
 
 [[files]]
