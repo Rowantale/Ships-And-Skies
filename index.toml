@@ -810,7 +810,15 @@ hash = "ca15e872c92312f5bd075e71fc3757648e57f977be0227a14b7c4016e08b69d7"
 
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/loot_table/blocks/jungle_leaves.json"
-hash = "c6d50596d712c212a7243bd8b5975b508dad132c8737e05237a5056391a3a632"
+hash = "85abeeccaf90ab112ab7ff18c5169952d1acea9e6747a478a70d6852d2428072"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/loot_table/entities/iron_golem.json"
+hash = "41eec9ef1f99914c28171aac1cb4c7ffc8275ec120f3e72f38353f9f69b64beb"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/loot_table/entities/zombified_piglin.json"
+hash = "65cb2ca2718a81911531df272440e881f610639b8d151bd3e0aca7b9976a130c"
 
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/recipe/chain.json"
@@ -959,6 +967,14 @@ hash = "d358c483dbdc87d232de5332914f7e9d4daf5f6a80b275b40d05dbde788145fb"
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/nomansland/recipe/food/fruit_cake.json"
 hash = "e60a608f596969ea2f0a65132984971df5f11b24f9c3ca8088705c4a0e0d6482"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/canvas_envelope.json"
+hash = "c1d282b5ab8b745e4b0562415c57cab658466f8aba073b48521852bbadf1e8f8"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/canvas_sail.json"
+hash = "52669392e9f489babf837967206d73f8621f3015b9db0c6bab87dc5f516b579c"
 
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/cross_to_rail.json"
@@ -1369,6 +1385,11 @@ hash = "dfa39dbfce8cccfe38d140db4782fa5c806eccfcf3f7c3a5d352f089d1b1cd73"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "e77e392b37491baae1c0408c9f2aa0b96a1a22131a427a025c96a8d22c119259"
+metafile = true
+
+[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "a8eb83f5f009bd865dbb42b4988d8be78595190fc295d47ebf5402cece95ceca"
 metafile = true
@@ -1521,6 +1542,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "39074dc93296139f29b081165b7b6e3d235b6b185e62a29b809a652a8e07381f"
+metafile = true
+
+[[files]]
+file = "mods/disable-enderman-picking-up-blocks.pw.toml"
+hash = "a035b848b6d42169042abe1dc46b20a60f0a6d919c61503a82219414bc048d40"
 metafile = true
 
 [[files]]
@@ -2056,6 +2082,11 @@ metafile = true
 [[files]]
 file = "mods/underground-rivers.pw.toml"
 hash = "ad2444488d30dca4c6906d7bf6b9c20a1446db56574d2455ddd00cd1be1cc20f"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "5a815d976914f70f5f34b4ef0861627f47100785b68a4e251f5d7e5d09e9e9c4"
 metafile = true
 
 [[files]]
