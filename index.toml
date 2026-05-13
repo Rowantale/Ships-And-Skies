@@ -1254,7 +1254,7 @@ hash = "2eabc2a7b4aa61e8b611c4928e521269906b12221138882357331292492093b1"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
-hash = "45f8f001f6e21fecc496aa8edb665a81796c12c85a39cfd3cda68d1574dfab57"
+hash = "11b867207a69b491f57567b6e72a84e5dd26216c86e158d78048fdc639d2539a"
 
 [[files]]
 file = "config/vanillin-client.toml"
@@ -1574,6 +1574,11 @@ hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "7b1dd76120af750d271996821c7f3311044432ef239895c551e0c0c968a573f9"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "41b6fd03f19b3fd2b0cb81669f1591308693e4a87c0d74fc6e9201a3e399de47"
 metafile = true
@@ -1754,6 +1759,11 @@ hash = "f59fb074bd2c5337c5936bd5dd2b2c94182b95e377c9552a038968a5dd9ab4cb"
 metafile = true
 
 [[files]]
+file = "mods/horseman.pw.toml"
+hash = "731df4f0718ac78bd0dddc6c91c4b38f331b1a4ac04c5463dfd88381b654a968"
+metafile = true
+
+[[files]]
 file = "mods/hybrid-aquatic.pw.toml"
 hash = "2d78bf24764f18fd0ee8759b48aba5eadc007c5aa5d05adde54f83042e4b6b1b"
 metafile = true
@@ -1801,6 +1811,11 @@ metafile = true
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "45cd6fae2fb2fc49b5190011caea3b7e1f43395bcacf2d6da3f3b52bc74e2bf3"
+metafile = true
+
+[[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "5481d03cd91b924ab16f9be6aecc016b18f8810ea0855e9a6215660f9c85e379"
 metafile = true
 
 [[files]]
