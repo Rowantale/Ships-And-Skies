@@ -601,12 +601,20 @@ file = "config/paxi/datapacks/ShipsAndSkiesData/data/architects_palette/recipe/n
 hash = "c15051a38ee61510df08e6711bf3ab7bf4a5b2391ac5fcffd68f31fb6a63e53c"
 
 [[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/c/tags/item/music_discs.json"
+hash = "800d6f1bd6b11673f2890385f3c3b3e5691edf8729a1b8a73f981e4e1953c068"
+
+[[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/create/recipe/crafting/appliances/chain_from_zinc.json"
 hash = "8a8a8ae225a727ca5db99afa72d498d270ebf6a7a4c6bf98b62e80201de7a2ee"
 
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/create/recipe/crafting/kinetics/controller_rail.json"
 hash = "69e79fd65cda38a7fd2b8392169380d3f50e29e06d645d973c864b86cbc73c29"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/create/recipe/splashing/crushed_raw_zinc.json"
+hash = "7378bd76891810e6261278cf40a61df414d4a67ef1ca7a5326e86dd9b2acac9f"
 
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/easyshulkerboxes/item_contents_provider/black_bundle.json"
@@ -813,6 +821,14 @@ file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/loot_table/blocks
 hash = "85abeeccaf90ab112ab7ff18c5169952d1acea9e6747a478a70d6852d2428072"
 
 [[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/loot_table/blocks/sculk_catalyst.json"
+hash = "ba03a1828f96a44317f275a230be68721da7d45e92359010a083912b2881974f"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/loot_table/blocks/sculk_shrieker.json"
+hash = "664519277eda40a89367208d2dfafcbe633edad451eaed0db0721e820915a6ab"
+
+[[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/minecraft/loot_table/entities/iron_golem.json"
 hash = "41eec9ef1f99914c28171aac1cb4c7ffc8275ec120f3e72f38353f9f69b64beb"
 
@@ -969,12 +985,36 @@ file = "config/paxi/datapacks/ShipsAndSkiesData/data/nomansland/recipe/food/frui
 hash = "e60a608f596969ea2f0a65132984971df5f11b24f9c3ca8088705c4a0e0d6482"
 
 [[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/advancement/kill_nauseous_slime.json"
+hash = "6c7be399cef4002d1b0fcc25c03d4d17d8630e4b99fe213502ced90b6ee4c61c"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/advancement/sticky_alchemy.json"
+hash = "a241cc68fe9c53fa470742c9bfd32d0afcc77e6fd39751092d8e1c7004668438"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/function/spawn_sulfur_cube.mcfunction"
+hash = "5b2512320e225914b0cd29a069b83782b61ecefb7c14d0e1dbc00d1f71b4361e"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/bounce_assembly.json"
+hash = "5886ae805c5c1c03058855cedf9158a0d37c9aa806a4c3bb847cc1aad07fce58"
+
+[[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/canvas_envelope.json"
 hash = "c1d282b5ab8b745e4b0562415c57cab658466f8aba073b48521852bbadf1e8f8"
 
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/canvas_sail.json"
 hash = "52669392e9f489babf837967206d73f8621f3015b9db0c6bab87dc5f516b579c"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/cinnabar_compacting.json"
+hash = "fd5db4587972a16bb1cddd565c755427a51cdf9dca83af9badd3787607199049"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/cinnabar_duplicating.json"
+hash = "6bdfb6018232183babbccb93b79493cc8cabdcf16c6721ecb81d68c105ef7d55"
 
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/cross_to_rail.json"
@@ -989,8 +1029,32 @@ file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/rail_to_cr
 hash = "552d422ddbb1194741bf3bea4533727fe982cf8200e31809e9940e4a5a6a315b"
 
 [[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/sulfur_block.json"
+hash = "ec5bd4d74392536214ae689fae6807d0577e0647835d9942bbcb2bf9cd6e3bb1"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/sulfur_from_block.json"
+hash = "27e80ead7a05af98ffc4dff55e7430e20b5ad46f9b74793317cc57f50689e15c"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/sulfur_from_block_mill.json"
+hash = "f602a87fca3d3d29258c1dbfc8b469a404a78d539ba603efedd13787b7ff654c"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/sulfur_salvaging.json"
+hash = "436393068d58c6f19fa73d023fede32afadc9bd251d6f1a123299351b407e0d7"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/sulfur_spike.json"
+hash = "04bd92ae72c21183f361550e5b96de9b56bcb0ea8e6845627ad0069524f07153"
+
+[[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/recipe/supp_to_fd_rope.json"
 hash = "aacbff22a3580eabf561dadd9b90a7d0ec003a97a65e67f992e574e9cc629120"
+
+[[files]]
+file = "config/paxi/datapacks/ShipsAndSkiesData/data/rowanpack/tags/item/converts_to_bounce.json"
+hash = "a288ad6c54508d7defdb4c3a99289aaf670d4d3092bc0668e89164db09d4302c"
 
 [[files]]
 file = "config/paxi/datapacks/ShipsAndSkiesData/data/sable/tags/block/super_light.json"
@@ -1446,7 +1510,7 @@ metafile = true
 
 [[files]]
 file = "mods/clayworks.pw.toml"
-hash = "1cb2d34740a926dd9cdee687965c8b72e1d4c47961254864758f7eecfbaa401e"
+hash = "55475268a01d566cf929a26e670cbf0882f40e0e86a80c90a1007c44f8732196"
 metafile = true
 
 [[files]]
@@ -1701,7 +1765,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "3bdfb02d79c525f2a46e35debd0ad9d95247e5fdd2b5b117a9504c93c29d90b2"
+hash = "4cd970271eeb28dab829a33bf206666c159c04c486555866ae6fd5cb68ce1016"
 metafile = true
 
 [[files]]
@@ -1776,7 +1840,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "a5186084487e6177de58550b001499b330aec4a4cea54b25279c5a6716a5d0af"
+hash = "fa64d63da986331360aefef217f30dc86ab50216545e0c3ce88d180b20ba39d3"
 metafile = true
 
 [[files]]
@@ -1801,7 +1865,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b685029ca05761186396969b5c2989f7bd6bbf0ae3eec531a2308d3b7667ae5c"
+hash = "3a1f3cbe172ddf826a9e32eee52010a1a2a6010c1fdb40dbba396579bd5a761d"
 metafile = true
 
 [[files]]
@@ -1856,7 +1920,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "728c9c40a98b6c907fc25fa8cbb2484e1d1b412807776b63cea012734f8dee4d"
+hash = "82c783675c51c536a1b9959876493566a26a83b4c9f4a5413c98c277b584071d"
 metafile = true
 
 [[files]]
@@ -1886,7 +1950,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "3f9632b4a90a2b61175d1e61f2ecd778a68addb3eed626e58225822949bb667b"
+hash = "de5dff48f2919bf7c7c58f19a110b21e0c9f9b1f1501a5c58f254dcfb1ebc43b"
 metafile = true
 
 [[files]]
@@ -1911,7 +1975,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "140e2303a0237994208720ad52f153419b7cdd13cc6b577686a9d809882fee95"
+hash = "f80c582b6bfdd11d437059a59976c0c3afda95bbe6cc20a1564e29c9c0f5cb46"
 metafile = true
 
 [[files]]
@@ -2011,12 +2075,12 @@ metafile = true
 
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
-hash = "e92db34f26777907af18c773f61048cedfbc1686987ff567b7ef841382d22661"
+hash = "ec55aeedadf7df32cb379282bdc67acd69c0e73ca89d4b77aa0ca44a29ff96ad"
 metafile = true
 
 [[files]]
 file = "mods/stoat.pw.toml"
-hash = "acf61eb27660045e19767d0041fbe4a2fbaff8d2d59e12ed55ccc735c3b20c82"
+hash = "4e0ff4526e8789e47e978783a43cd358cbc9a6d9d3b0b3751438cc4700c3f560"
 metafile = true
 
 [[files]]
@@ -2036,7 +2100,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4550a118340a33edc670f2e5974aac3b244ccd8a961ba1a31d83455f8bfc1ead"
+hash = "b95225452166c96ed50a0224dbb233991648e709565b17c5fa0d60e406af3b9c"
 metafile = true
 
 [[files]]
@@ -2046,7 +2110,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "59203d7187c723e113dc43632bfa1d5ebd347c566983b44bf48f219796e13316"
+hash = "514c5593e0f2ee082cd62717263d4fd8761f66ea08c88b8ffbdc782b5818911f"
 metafile = true
 
 [[files]]
@@ -2091,7 +2155,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "3147378b4aeca4cafcc7bef2b54a22ab7302ea71b368a5a58ce2b913be80cd56"
+hash = "947a83989751dba4e7387ad2e3754b8a8e96a81476317b1db8c0a103632ae099"
 metafile = true
 
 [[files]]

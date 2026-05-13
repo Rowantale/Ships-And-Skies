@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#c:music_discs"
+  ],
+  "remove": [
+    "minecraft:music_disc_bounce"
+  ]
+}

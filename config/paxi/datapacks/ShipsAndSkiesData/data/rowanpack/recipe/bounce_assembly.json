@@ -1,0 +1,48 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "rowanpack:converts_to_bounce"
+  },
+  "results": [
+    {
+      "id": "minecraft:music_disc_bounce"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "etched:blank_music_disc"
+        },
+        {
+          "item": "hybrid-aquatic:sulfur"
+        }
+      ],
+      "results": [
+        {
+          "id": "etched:blank_music_disc"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "etched:blank_music_disc"
+        },
+        {
+          "tag": "create:sandpaper"
+        }
+      ],
+      "results": [
+        {
+          "id": "etched:blank_music_disc"
+        }
+      ]
+    }
+  ],
+  "transitional_item": {
+    "id": "etched:blank_music_disc"
+  }
+}

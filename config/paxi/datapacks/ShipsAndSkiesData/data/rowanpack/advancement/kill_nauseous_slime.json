@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "kill_nauseous_slime": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:slime",
+          "type_specific": {
+            "type": "minecraft:slime",
+            "size": 2
+          },
+          "effects": {
+            "minecraft:nausea": {}
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "rowanpack:spawn_sulfur_cube"
+  }
+}
