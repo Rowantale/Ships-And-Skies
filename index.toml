@@ -1709,6 +1709,11 @@ hash = "6199a41dee6696663f01c8063da46548aea29b7172eb8ffbe141d1f193c76822"
 metafile = true
 
 [[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "0232129374fc4ad9f43b3ca6a8beffce4f12b0bd2bebe5b718350ce6e848637f"
+metafile = true
+
+[[files]]
 file = "mods/enderscape.pw.toml"
 hash = "2619686d1df8c2c8486ac1210db7f074598b53b5ef0724b6ac6aeff5708cec26"
 metafile = true
