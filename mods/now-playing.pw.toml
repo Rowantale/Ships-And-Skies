@@ -1,0 +1,21 @@
+filename = 'now-playing-neoforge-1.5.16+1.21.jar'
+name = 'Now Playing'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.16+1.21'
+
+[download]
+hash = 'e2f6ee514f9c319d8198e8c0c461d2171402bd875adac2a79f548888bc5d62bf071a7b2da92a693717303f5d3dcc26aca696c3dda90666a133f326384f17bb31'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eNF4Bfla/versions/zocCsL7s/now-playing-neoforge-1.5.16%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'eNF4Bfla'
+version = 'zocCsL7s'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
